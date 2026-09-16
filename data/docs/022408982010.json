@@ -1,0 +1,23 @@
+{
+ "ref": "022408982010",
+ "refDisplay": "0224 08 982010",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202332605",
+ "refDisplay": "2CX2 0 233 2605",
+ "title": "SEGMENTS DE FREIN AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0041"
+  }
+ ]
+}

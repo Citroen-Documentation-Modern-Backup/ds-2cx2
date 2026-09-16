@@ -1,0 +1,18 @@
+{
+ "ref": "022408971210",
+ "refDisplay": "0224 08 971210",
+ "title": "MONTAGE BACHE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0149"
+  }
+ ]
+}

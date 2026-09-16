@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201321017",
+ "refDisplay": "2CX2 0 132 1017",
+ "title": "ENTRAINEUR AVEC ROTULES G OU ARBRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

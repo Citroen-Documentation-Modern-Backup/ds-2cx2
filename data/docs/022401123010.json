@@ -1,0 +1,18 @@
+{
+ "ref": "022401123010",
+ "refDisplay": "0224 01 123010",
+ "title": "ARBRE A CAMES",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

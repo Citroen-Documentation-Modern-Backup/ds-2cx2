@@ -1,0 +1,235 @@
+/* Feuilles de style des éléments textuels après-vente*/
+/* 07/06/2004, Version 1.0.1 */
+
+TABLE {
+	width: 100%;
+	border: solid 1pt black;
+	border-collapse:collapse;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+TABLE.tableauAP {
+	width: auto;
+	border: solid 1pt black;
+	border-collapse:collapse;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+TABLE.tableauAC {
+	width: auto;
+	border: solid 1pt black;
+	border-collapse:collapse;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+TABLE.imgTable
+{
+	width:auto;
+	border:none;
+}
+TABLE.imgTableFullScreen
+{
+	width:100%;
+	border:none;
+}
+TD.imgTable
+{
+	border:none;
+}
+TD
+{
+	border: solid 1pt black;
+	border-collapse:collapse;
+	/*padding:3pt;*/
+	/*text-align: center;*/
+
+}
+
+/* Titres de chapitre */
+.sti1 {
+	font-size: 13pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:15px;
+	padding-bottom:5px;
+}
+.sti2 {
+	font-size: 12pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.sti3 {
+	font-size: 10pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+/* Remarques: Note, Avertissement ou Impératif*/
+.rem {
+}
+/* Remarque de type Note */
+.not {
+	color: blue;
+	padding:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align:justify;
+}
+/* Remarque de type Avertissement */
+.att {
+	color: blue;
+	border: solid 1px;
+	border-color: blue;
+	padding:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align:justify;
+}
+.bolder
+{
+	font-weight: bold;
+}
+.maj {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+/* Remarque de type Impératif */
+.imp {
+	color: red;
+	/*background-color: #FFFFD7;*/
+	border: solid 3px;
+	border-color: red;
+	border-style: double;
+	padding:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align:justify;
+}
+/* Entête de tableau après-vente */
+.tete
+{
+	font-size:10pt;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align:center;
+}
+.tableau {
+	/*text-align:center;*/
+}
+
+.first
+{
+	font-weight: bold;
+}
+
+/* Images Après-vente */
+.image {
+	margin-top: 20px;
+	text-align:left;
+	border:solid 1pt black;
+	padding:10pt;
+}
+.fullScreenOn {
+	height:100%;
+	width:100%;
+	margin:5pt;
+
+}
+.fullScreenOnZoomable {
+	height:100%;
+	width:100%;
+	overflow:auto;
+}
+
+.fullScreenOff
+{
+	display:none;
+}
+/* Légende des images après-vente */
+.fig {
+	/*text-align: center;*/
+	font-size: 8pt;
+	margin-bottom: 10px;
+	vertical-align:middle;
+}
+.fig_zoom {
+	/*text-align: center;*/
+	font-size: 8pt;
+	cursor:pointer;
+	margin-bottom: 10px;
+	color:Blue;
+	text-decoration:underline;
+	vertical-align:middle;
+}
+.img_numfich {
+	font-size: 8pt;
+	/*text-align: center;*/
+	text-transform:uppercase;
+}
+.legende
+{
+	margin-bottom:10pt;
+}
+
+/* Particularités */
+.book
+{
+	cursor:pointer;
+
+}
+@media screen
+{
+	.clsExpanded {
+		DISPLAY: inline; WIDTH: 100%; COLOR: black
+	}
+	.clsCollapsed {
+		DISPLAY: none
+	}
+	.clsBookExpanded {
+		DISPLAY: inline; WIDTH: 100%; COLOR: black
+	}
+	.clsBookCollapsed {
+		DISPLAY: none
+	}
+	.imgNavbar
+	{
+		text-align:right;
+	}
+}
+/* A l'impression, les particularités sont toutes affichées */
+@media print
+{
+	.clsExpanded {
+		DISPLAY: inline; WIDTH: 100%; COLOR: black
+	}
+	.clsCollapsed {
+		DISPLAY: inline; WIDTH: 100%; COLOR: black
+	}
+	.clsBookExpanded {
+		DISPLAY: none
+	}
+	.clsBookCollapsed {
+		DISPLAY: none
+	}
+	.imgNavbar
+	{
+		DISPLAY: none
+	}
+}
+
+/* Listes après-vente */
+UL
+{
+	margin-top:0;
+}
+LI
+{
+	padding-left:0;
+}

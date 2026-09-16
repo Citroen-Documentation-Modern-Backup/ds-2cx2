@@ -1,0 +1,18 @@
+{
+ "ref": "022401331210",
+ "refDisplay": "0224 01 331210",
+ "title": "FIXATION BV SUR CARTER MOTEUR",
+ "nature": "",
+ "applicability": "1,905L SAUF GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

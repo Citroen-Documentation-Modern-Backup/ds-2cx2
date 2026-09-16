@@ -1,0 +1,18 @@
+{
+ "ref": "022404456310",
+ "refDisplay": "0224 04 456310",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L JUSQU’A SERIE 00751614",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

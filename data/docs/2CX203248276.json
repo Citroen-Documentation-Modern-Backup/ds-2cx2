@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203248276",
+ "refDisplay": "2CX2 0 324 8276",
+ "title": "PANNEAUX LATERAL AR ,ANGLE AR ET PASSAGE DE ROUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201412204",
+ "refDisplay": "2CX2 0 141 2204",
+ "title": "JANTE 1",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

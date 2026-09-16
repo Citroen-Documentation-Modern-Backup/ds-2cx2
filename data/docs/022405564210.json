@@ -1,0 +1,18 @@
+{
+ "ref": "022405564210",
+ "refDisplay": "0224 05 564210",
+ "title": "LAVE VITRE ARRIERE",
+ "nature": "",
+ "applicability": "COMBI ET CLUB",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B2CT03P0",
+ "refDisplay": "B2CT03P0",
+ "title": "Évolution  :  prise tachymétrique",
+ "nature": "Évolutions",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204458941",
+ "refDisplay": "2CX2 0 445 8941",
+ "title": "TAPIS DE PLANCHER DE COFFRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

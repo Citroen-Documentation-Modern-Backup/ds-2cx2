@@ -1,0 +1,18 @@
+{
+ "ref": "022406175110",
+ "refDisplay": "0224 06 175110",
+ "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
+ "nature": "",
+ "applicability": "MONTAGE TUBULURE METALLIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

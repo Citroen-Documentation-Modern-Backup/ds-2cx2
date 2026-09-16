@@ -1,0 +1,18 @@
+{
+ "ref": "022401335810",
+ "refDisplay": "0224 01 335810",
+ "title": "COMMANDE DE VITESSES-COTE HABITACLE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE DEPUIS DATE 19861101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

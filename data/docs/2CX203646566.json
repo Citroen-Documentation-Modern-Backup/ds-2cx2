@@ -1,0 +1,24 @@
+{
+ "ref": "2CX203646566",
+ "refDisplay": "2CX2 0 364 6566",
+ "title": "BUTEE ELASTIQUE OUVERTURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0857"
+  }
+ ]
+}

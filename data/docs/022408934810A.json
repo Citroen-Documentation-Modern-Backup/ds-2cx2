@@ -1,0 +1,23 @@
+{
+ "ref": "022408934810A",
+ "refDisplay": "0224 08 934810A",
+ "title": "BANQUETTE ARRIERE - GARNITURES",
+ "nature": "",
+ "applicability": "FOURGONS ET ENTREPRISE DEPUIS DATE 19900701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0232"
+  }
+ ]
+}

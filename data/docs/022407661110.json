@@ -1,0 +1,18 @@
+{
+ "ref": "022407661110",
+ "refDisplay": "0224 07 661110",
+ "title": "VERIN - TUYAUTERIE",
+ "nature": "",
+ "applicability": "BENNE BASCULANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0150"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "022401001015",
+ "refDisplay": "0224 01 001015",
+ "title": "MOTEUR - POCHETTE DE JOINTS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,971L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

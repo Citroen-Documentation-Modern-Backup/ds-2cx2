@@ -1,0 +1,18 @@
+{
+ "ref": "022402143440",
+ "refDisplay": "0224 02 143440",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "1,971L ET (CH) SUISSE ET (A) AUTRICHE ET (TW) TAIWAN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

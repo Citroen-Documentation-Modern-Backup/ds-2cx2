@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204469092",
+ "refDisplay": "2CX2 0 446 9092",
+ "title": "GARNITURE BRANCARD AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

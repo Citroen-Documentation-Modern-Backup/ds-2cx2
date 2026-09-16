@@ -1,0 +1,23 @@
+{
+ "ref": "022407744710",
+ "refDisplay": "0224 07 744710",
+ "title": "ELEMENTS INT DE CAISSE PROTECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0111"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

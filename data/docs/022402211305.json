@@ -1,0 +1,18 @@
+{
+ "ref": "022402211305",
+ "refDisplay": "0224 02 211305",
+ "title": "ALLUMEUR - DETAILS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L ET 2L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

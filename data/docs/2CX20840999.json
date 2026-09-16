@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20840999",
+ "refDisplay": "2CX2 0 84 0999",
+ "title": "CAPTEUR TACHYMETRIQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

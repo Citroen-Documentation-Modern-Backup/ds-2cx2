@@ -1,0 +1,18 @@
+{
+ "ref": "022406173010A",
+ "refDisplay": "0224 06 173010A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": " DEPUIS SERIE 00541658",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

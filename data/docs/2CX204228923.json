@@ -1,0 +1,24 @@
+{
+ "ref": "2CX204228923",
+ "refDisplay": "2CX2 0 422 8923",
+ "title": "CADRE SUPPORT G",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

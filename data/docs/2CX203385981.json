@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203385981",
+ "refDisplay": "2CX2 0 338 5981",
+ "title": "VITRE PORTE BATTANTE AR 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  }
+ ]
+}

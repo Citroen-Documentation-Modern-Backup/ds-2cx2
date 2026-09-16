@@ -1,0 +1,23 @@
+{
+ "ref": "022403441110",
+ "refDisplay": "0224 03 441110",
+ "title": "COLONNE DE DIRECTION",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0035"
+  }
+ ]
+}

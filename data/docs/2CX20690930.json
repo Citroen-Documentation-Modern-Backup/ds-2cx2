@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20690930",
+ "refDisplay": "2CX2 0 69 0930",
+ "title": "BAGUE ETANCH D’ARBRE PRIMAIRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

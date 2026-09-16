@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20225069",
+ "refDisplay": "2CX2 0 22 5069",
+ "title": "TUYAU(X) EAU AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203715555",
+ "refDisplay": "2CX2 0 371 5555",
+ "title": "GALERIE DE TOIT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0143"
+  }
+ ]
+}

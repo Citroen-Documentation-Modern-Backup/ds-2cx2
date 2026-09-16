@@ -1,0 +1,18 @@
+{
+ "ref": "022401335610A",
+ "refDisplay": "0224 01 335610A",
+ "title": "COMMANDE DE VITESSE BOITE MECANIQUE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS DATE 19900901",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

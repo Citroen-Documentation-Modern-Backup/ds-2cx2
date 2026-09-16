@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202412504",
+ "refDisplay": "2CX2 0 241 2504",
+ "title": "BANC DE FREINAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

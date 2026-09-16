@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202782666",
+ "refDisplay": "2CX2 0 278 2666",
+ "title": "TUBE DE RACC 4 VOIES A RACC 2 VOIES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

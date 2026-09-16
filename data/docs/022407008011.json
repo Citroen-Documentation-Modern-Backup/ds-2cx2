@@ -1,0 +1,18 @@
+{
+ "ref": "022407008011",
+ "refDisplay": "0224 07 008011",
+ "title": "CAISSE",
+ "nature": "",
+ "applicability": "REHAUSSE JUSQU’A DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0146"
+  }
+ ]
+}

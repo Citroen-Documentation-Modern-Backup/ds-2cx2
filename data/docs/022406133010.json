@@ -1,0 +1,18 @@
+{
+ "ref": "022406133010",
+ "refDisplay": "0224 06 133010",
+ "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L ET 2L JUSQU’A DATE 19900630",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

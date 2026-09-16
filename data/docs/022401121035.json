@@ -1,0 +1,18 @@
+{
+ "ref": "022401121035",
+ "refDisplay": "0224 01 121035",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022407844110",
+ "refDisplay": "0224 07 844110",
+ "title": "VERROUILLAGE DE PORTE COULISSANTE",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19860101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

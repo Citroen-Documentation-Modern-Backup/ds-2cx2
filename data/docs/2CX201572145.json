@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201572145",
+ "refDisplay": "2CX2 0 157 2145",
+ "title": "ROULEMENT DE MOYEU AR 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

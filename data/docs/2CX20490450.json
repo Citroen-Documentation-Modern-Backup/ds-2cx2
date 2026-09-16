@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20490450",
+ "refDisplay": "2CX2 0 49 0450",
+ "title": "JOINT DE COLLECTEUR ECHAPPEMENT",
+ "nature": "",
+ "applicability": "(2001) C25 DIESEL TURBO CRD93LS OU (2000) C25 DIESEL TURBO CRD93L",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

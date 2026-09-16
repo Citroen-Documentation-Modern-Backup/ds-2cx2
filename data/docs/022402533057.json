@@ -1,0 +1,18 @@
+{
+ "ref": "022402533057",
+ "refDisplay": "0224 02 533057",
+ "title": "DEMARREUR",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

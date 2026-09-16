@@ -1,0 +1,23 @@
+{
+ "ref": "022407742110",
+ "refDisplay": "0224 07 742110",
+ "title": "AILES AVANT BAIE DE PARE-BRISE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0106"
+  }
+ ]
+}

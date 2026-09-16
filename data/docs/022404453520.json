@@ -1,0 +1,18 @@
+{
+ "ref": "022404453520",
+ "refDisplay": "0224 04 453520",
+ "title": "MAITRE CYLINDRE - RESERVOIR",
+ "nature": "",
+ "applicability": "1800 KG SAUF TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0045"
+  }
+ ]
+}

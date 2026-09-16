@@ -1,0 +1,23 @@
+{
+ "ref": "022401112215",
+ "refDisplay": "0224 01 112215",
+ "title": "COUVRE CULASSE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,971L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

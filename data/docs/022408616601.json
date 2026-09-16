@@ -1,0 +1,28 @@
+{
+ "ref": "022408616601",
+ "refDisplay": "0224 08 616601",
+ "title": "CEINTURES DE SECURITE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0238"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

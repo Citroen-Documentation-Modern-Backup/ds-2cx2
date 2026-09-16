@@ -1,0 +1,18 @@
+{
+ "ref": "022401334510",
+ "refDisplay": "0224 01 334510",
+ "title": "ENSEMBLE PIGNONS ET SYNCHROS DE 5EME",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19840101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

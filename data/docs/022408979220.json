@@ -1,0 +1,28 @@
+{
+ "ref": "022408979220",
+ "refDisplay": "0224 08 979220",
+ "title": "TAPIS ET GARNITURES",
+ "nature": "",
+ "applicability": "CABINE DOUBLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

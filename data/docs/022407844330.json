@@ -1,0 +1,23 @@
+{
+ "ref": "022407844330",
+ "refDisplay": "0224 07 844330",
+ "title": "PORTE LATERALE BATTANTE",
+ "nature": "",
+ "applicability": "FOURGON TOLE ET COMBI SUPER ET 1 PORTE LATERALE ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

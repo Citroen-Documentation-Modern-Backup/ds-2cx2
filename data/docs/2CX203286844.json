@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203286844",
+ "refDisplay": "2CX2 0 328 6844",
+ "title": "SUPPORT EQUILIBREUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0119"
+  }
+ ]
+}

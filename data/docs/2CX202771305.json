@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202771305",
+ "refDisplay": "2CX2 0 277 1305",
+ "title": "TUBE ASPIRATION ENTRE RESERVOIR LHMET POMPE HP",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

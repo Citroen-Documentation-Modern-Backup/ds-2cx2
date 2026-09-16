@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202362620",
+ "refDisplay": "2CX2 0 236 2620",
+ "title": "LIMITEUR DE FREINAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0043"
+  }
+ ]
+}

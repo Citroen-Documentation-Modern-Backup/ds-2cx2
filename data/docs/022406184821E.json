@@ -1,0 +1,18 @@
+{
+ "ref": "022406184821E",
+ "refDisplay": "0224 06 184821E",
+ "title": "ECHAPPEMENT ARRIERE",
+ "nature": "",
+ "applicability": "DIESEL ET TURBO ET M705 ET CATALYSEUR ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

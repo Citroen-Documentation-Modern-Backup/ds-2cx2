@@ -1,0 +1,28 @@
+{
+ "ref": "022408616420",
+ "refDisplay": "0224 08 616420",
+ "title": "CEINTURES DE SECURITE INTERMEDIAIRE",
+ "nature": "",
+ "applicability": "CABINE DOUBLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0238"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

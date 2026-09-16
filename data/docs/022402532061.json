@@ -1,0 +1,18 @@
+{
+ "ref": "022402532061",
+ "refDisplay": "0224 02 532061",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

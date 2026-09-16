@@ -1,0 +1,18 @@
+{
+ "ref": "022401231110",
+ "refDisplay": "0224 01 231110",
+ "title": "POMPE A EAU - COUVERCLE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

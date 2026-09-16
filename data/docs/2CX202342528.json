@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202342528",
+ "refDisplay": "2CX2 0 234 2528",
+ "title": "POULIE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022406173011",
+ "refDisplay": "0224 06 173011",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "(CH) SUISSE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

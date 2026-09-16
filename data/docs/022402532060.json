@@ -1,0 +1,18 @@
+{
+ "ref": "022402532060",
+ "refDisplay": "0224 02 532060",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L DEPUIS DATE 19881129",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022406173312",
+ "refDisplay": "0224 06 173312",
+ "title": "FILTRE A GASOIL",
+ "nature": "",
+ "applicability": " DEPUIS SERIE 00121750 JUSQU’A SERIE 00208182",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

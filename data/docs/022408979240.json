@@ -1,0 +1,28 @@
+{
+ "ref": "022408979240",
+ "refDisplay": "0224 08 979240",
+ "title": "TAPIS ET GARNITURES",
+ "nature": "",
+ "applicability": "COMBI SUPER ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

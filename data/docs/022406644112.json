@@ -1,0 +1,18 @@
+{
+ "ref": "022406644112",
+ "refDisplay": "0224 06 644112",
+ "title": "CHAUFFAGE - AERATION - DEGIVRAGE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE JUSQU’A DATE 19900701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0215"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "022408934320",
+ "refDisplay": "0224 08 934320",
+ "title": "BANQUETTE ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "COMBI ET STANDARD ET CONF ET CABINE DOUBLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0226"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

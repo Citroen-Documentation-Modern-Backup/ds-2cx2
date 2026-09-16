@@ -1,0 +1,23 @@
+{
+ "ref": "022406173216A",
+ "refDisplay": "0224 06 173216A",
+ "title": "CANALISATION GASOIL ET RECHAUFFEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ET 2,5L DEPUIS SERIE 00485767",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

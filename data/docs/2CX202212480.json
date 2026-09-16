@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202212480",
+ "refDisplay": "2CX2 0 221 2480",
+ "title": "VOLANT DE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  }
+ ]
+}

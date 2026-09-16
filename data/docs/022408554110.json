@@ -1,0 +1,28 @@
+{
+ "ref": "022408554110",
+ "refDisplay": "0224 08 554110",
+ "title": "PARE SOLEIL - RETROVISEUR INTERIEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

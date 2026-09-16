@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204469082",
+ "refDisplay": "2CX2 0 446 9082",
+ "title": "GARNITURE DE PAVILLON CENTRAL",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

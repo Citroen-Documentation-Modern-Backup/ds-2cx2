@@ -1,0 +1,24 @@
+{
+ "ref": "2CX205475157",
+ "refDisplay": "2CX2 0 547 5157",
+ "title": "RELAIS DE COMMANDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0503"
+  }
+ ]
+}

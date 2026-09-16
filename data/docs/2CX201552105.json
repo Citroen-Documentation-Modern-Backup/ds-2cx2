@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201552105",
+ "refDisplay": "2CX2 0 155 2105",
+ "title": "ESSIEU AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

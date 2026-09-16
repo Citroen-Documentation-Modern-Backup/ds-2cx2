@@ -1,0 +1,28 @@
+{
+ "ref": "022401114025",
+ "refDisplay": "0224 01 114025",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L JUSQU’A DATE 19831001",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

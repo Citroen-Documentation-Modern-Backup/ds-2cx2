@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20230512",
+ "refDisplay": "2CX2 0 23 0512",
+ "title": "VASE D’EXPANSION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

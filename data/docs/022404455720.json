@@ -1,0 +1,23 @@
+{
+ "ref": "022404455720",
+ "refDisplay": "0224 04 455720",
+ "title": "FREIN A MAIN - CABLES",
+ "nature": "",
+ "applicability": "800 KG ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

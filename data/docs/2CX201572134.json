@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201572134",
+ "refDisplay": "2CX2 0 157 2134",
+ "title": "BUTEE DEBATTEMENT BRAS 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

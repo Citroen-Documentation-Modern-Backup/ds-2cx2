@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201562383",
+ "refDisplay": "2CX2 0 156 2383",
+ "title": "AMORTISSEURS AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0032"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "022408622010",
+ "refDisplay": "0224 08 622010",
+ "title": "SUPPORT DE ROUE DE SECOURS ACCESSOIRES",
+ "nature": "",
+ "applicability": "4X4 SAUF 800 KG SAUF COMBI LUXE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

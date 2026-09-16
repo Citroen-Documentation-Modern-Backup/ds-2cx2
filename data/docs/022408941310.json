@@ -1,0 +1,28 @@
+{
+ "ref": "022408941310",
+ "refDisplay": "0224 08 941310",
+ "title": "REPOSE TETE ET GARNITURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0225"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

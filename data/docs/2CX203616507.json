@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203616507",
+ "refDisplay": "2CX2 0 361 6507",
+ "title": "POIGNEE EXT DE PORTE AR 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0140"
+  }
+ ]
+}

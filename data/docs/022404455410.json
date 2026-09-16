@@ -1,0 +1,23 @@
+{
+ "ref": "022404455410",
+ "refDisplay": "0224 04 455410",
+ "title": "FREIN A MAIN - LEVIERS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

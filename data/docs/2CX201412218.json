@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201412218",
+ "refDisplay": "2CX2 0 141 2218",
+ "title": "4 JANTES ALU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

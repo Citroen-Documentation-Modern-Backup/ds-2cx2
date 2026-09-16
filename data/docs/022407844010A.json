@@ -1,0 +1,23 @@
+{
+ "ref": "022407844010A",
+ "refDisplay": "0224 07 844010A",
+ "title": "PORTE COULISSANTE",
+ "nature": "",
+ "applicability": " DEPUIS DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0857"
+  }
+ ]
+}

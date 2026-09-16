@@ -1,0 +1,18 @@
+{
+ "ref": "022401335615",
+ "refDisplay": "0224 01 335615",
+ "title": "COMMANDES DE VITESSES (CABLES)",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS DATE 19900901",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "022407841410A",
+ "refDisplay": "0224 07 841410A",
+ "title": "VITRE - LEVE VITRE DE PORTE AVANT",
+ "nature": "",
+ "applicability": " DEPUIS DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

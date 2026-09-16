@@ -1,0 +1,18 @@
+{
+ "ref": "022404456311",
+ "refDisplay": "0224 04 456311",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201321039",
+ "refDisplay": "2CX2 0 132 1039",
+ "title": "SOUFFLETS COTES ROUES ET B V 2COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

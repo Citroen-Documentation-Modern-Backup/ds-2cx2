@@ -1,0 +1,23 @@
+{
+ "ref": "022403442510",
+ "refDisplay": "0224 03 442510",
+ "title": "CREMAILLERE DE DIRECTION - DETAILS",
+ "nature": "",
+ "applicability": " SAUF DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

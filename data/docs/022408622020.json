@@ -1,0 +1,23 @@
+{
+ "ref": "022408622020",
+ "refDisplay": "0224 08 622020",
+ "title": "SUPPORT DE ROUE DE SECOURS ACCESSOIRES",
+ "nature": "",
+ "applicability": "800 KG DEPUIS DATE 19890101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

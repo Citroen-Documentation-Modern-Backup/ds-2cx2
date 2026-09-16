@@ -1,0 +1,23 @@
+{
+ "ref": "022401114510",
+ "refDisplay": "0224 01 114510",
+ "title": "CAPOTAGE DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

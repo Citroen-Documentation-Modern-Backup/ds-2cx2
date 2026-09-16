@@ -1,0 +1,18 @@
+{
+ "ref": "022407744440",
+ "refDisplay": "0224 07 744440",
+ "title": "ELEMENTS INTERIEURS DE CAISSE - DROIT",
+ "nature": "",
+ "applicability": "FOURGON VITRE ET 1 PORTE LATERALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0129"
+  }
+ ]
+}

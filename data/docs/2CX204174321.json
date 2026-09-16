@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204174321",
+ "refDisplay": "2CX2 0 417 4321",
+ "title": "CIRCUIT IMPRIME DE COMBINE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

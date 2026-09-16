@@ -1,0 +1,18 @@
+{
+ "ref": "022406235215",
+ "refDisplay": "0224 06 235215",
+ "title": "CANALISATION D’EAU",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

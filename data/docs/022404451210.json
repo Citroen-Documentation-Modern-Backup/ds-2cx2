@@ -1,0 +1,18 @@
+{
+ "ref": "022404451210",
+ "refDisplay": "0224 04 451210",
+ "title": "FREINS AVANT - ETRIERS ET DISQUES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  }
+ ]
+}

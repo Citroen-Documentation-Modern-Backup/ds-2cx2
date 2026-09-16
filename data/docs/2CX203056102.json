@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203056102",
+ "refDisplay": "2CX2 0 305 6102",
+ "title": "CAPOT + 1 AILE D OU 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0104"
+  }
+ ]
+}

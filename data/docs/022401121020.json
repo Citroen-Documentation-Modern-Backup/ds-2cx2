@@ -1,0 +1,18 @@
+{
+ "ref": "022401121020",
+ "refDisplay": "0224 01 121020",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "ESSENCE ET 2L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX2050733",
+ "refDisplay": "2CX2 0 5 0733",
+ "title": "SUPPORT DE B V SUR PASSAGE DE ROUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

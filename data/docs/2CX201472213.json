@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201472213",
+ "refDisplay": "2CX2 0 147 2213",
+ "title": "2 PNEUS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0024"
+  }
+ ]
+}

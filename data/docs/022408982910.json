@@ -1,0 +1,18 @@
+{
+ "ref": "022408982910",
+ "refDisplay": "0224 08 982910",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": "COMBI ET STANDARD",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

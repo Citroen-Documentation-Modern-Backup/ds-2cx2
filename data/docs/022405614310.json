@@ -1,0 +1,23 @@
+{
+ "ref": "022405614310",
+ "refDisplay": "0224 05 614310",
+ "title": "RELAIS FUSIBLES CAPTEUR PMH",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0503"
+  }
+ ]
+}

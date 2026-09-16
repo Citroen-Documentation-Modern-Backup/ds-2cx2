@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203875362",
+ "refDisplay": "2CX2 0 387 5362",
+ "title": "GICLEUR ET TUBE DE LAVE VITRE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

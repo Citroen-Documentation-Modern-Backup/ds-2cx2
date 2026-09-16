@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202352534",
+ "refDisplay": "2CX2 0 235 2534",
+ "title": "TUBE RACC X VOIES A MAITRE CYLINDREOU DOSEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

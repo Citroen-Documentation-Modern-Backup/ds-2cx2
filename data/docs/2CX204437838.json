@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204437838",
+ "refDisplay": "2CX2 0 443 7838",
+ "title": "POIGNEE MONTOIRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

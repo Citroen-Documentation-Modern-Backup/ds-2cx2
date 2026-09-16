@@ -1,0 +1,19 @@
+{
+ "ref": "2CX205415384",
+ "refDisplay": "2CX2 0 541 5384",
+ "title": "AUTO-RADIO",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

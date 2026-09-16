@@ -1,0 +1,18 @@
+{
+ "ref": "022406182311",
+ "refDisplay": "0224 06 182311",
+ "title": "ECRAN D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,971L ET (CH) SUISSE ET (A) AUTRICHE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

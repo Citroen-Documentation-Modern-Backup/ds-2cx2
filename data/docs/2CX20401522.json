@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20401522",
+ "refDisplay": "2CX2 0 40 1522",
+ "title": "TUBE C/C ALIMENTATION DE CANALISATION A POMPE OU FILTRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

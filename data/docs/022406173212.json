@@ -1,0 +1,23 @@
+{
+ "ref": "022406173212",
+ "refDisplay": "0224 06 173212",
+ "title": "CANALISATION GASOIL ET RECHAUFFEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L JUSQU’A SERIE 00430101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

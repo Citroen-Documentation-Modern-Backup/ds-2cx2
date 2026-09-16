@@ -1,0 +1,23 @@
+{
+ "ref": "022407844410",
+ "refDisplay": "0224 07 844410",
+ "title": "ETANCHEITE PORTE LAT BATTANTE DROITE",
+ "nature": "",
+ "applicability": "2 PORTES LATERALES ET FOURGON TOLE REHAUSS ET REHAUSSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

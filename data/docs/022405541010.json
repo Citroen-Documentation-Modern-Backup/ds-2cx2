@@ -1,0 +1,23 @@
+{
+ "ref": "022405541010",
+ "refDisplay": "0224 05 541010",
+ "title": "PROJECTEUR AVANT - GLACE - LAMPE",
+ "nature": "",
+ "applicability": " JUSQU’A SERIE 00413553",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

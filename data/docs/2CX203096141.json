@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203096141",
+ "refDisplay": "2CX2 0 309 6141",
+ "title": "SUPPORT DE CALANDRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0108"
+  }
+ ]
+}

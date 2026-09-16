@@ -1,0 +1,23 @@
+{
+ "ref": "022405541310",
+ "refDisplay": "0224 05 541310",
+ "title": "ECLAIRAGE AVANT-INDICATEURS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

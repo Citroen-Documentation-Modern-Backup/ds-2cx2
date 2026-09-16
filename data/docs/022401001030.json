@@ -1,0 +1,28 @@
+{
+ "ref": "022401001030",
+ "refDisplay": "0224 01 001030",
+ "title": "MOTEUR - POCHETTE DE JOINTS",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

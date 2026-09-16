@@ -1,0 +1,23 @@
+{
+ "ref": "022408934820",
+ "refDisplay": "0224 08 934820",
+ "title": "BANQUETTE ARRIERE - GARNITURES",
+ "nature": "",
+ "applicability": "COMBI ET STANDARD ET COMBI ET CONF ET CABINE DOUBLE JUSQU’A SERIE 00327500",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0232"
+  }
+ ]
+}

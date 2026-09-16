@@ -1,0 +1,18 @@
+{
+ "ref": "022405564110",
+ "refDisplay": "0224 05 564110",
+ "title": "LAVE VITRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

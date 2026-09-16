@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20152529",
+ "refDisplay": "2CX2 0 15 2529",
+ "title": "POULIE (MENANTE)",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ref": "2CX205115483",
+ "refDisplay": "2CX2 0 511 5483",
+ "title": "FAISCEAU DE GROUPE CHAUFFAGE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

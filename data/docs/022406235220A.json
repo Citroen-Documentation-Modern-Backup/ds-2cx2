@@ -1,0 +1,18 @@
+{
+ "ref": "022406235220A",
+ "refDisplay": "0224 06 235220A",
+ "title": "CANALISATION D’EAU",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L DEPUIS SERIE 00693686",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

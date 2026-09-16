@@ -1,0 +1,23 @@
+{
+ "ref": "022408613201",
+ "refDisplay": "0224 08 613201",
+ "title": "CEINTURES DE SECURITE AV A ENROULEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

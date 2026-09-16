@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203385982",
+ "refDisplay": "2CX2 0 338 5982",
+ "title": "JOINT D’ENCADREMENT VITRE DE PORTE BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022406184824",
+ "refDisplay": "0224 06 184824",
+ "title": "ECHAPPEMENT ARRIERE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

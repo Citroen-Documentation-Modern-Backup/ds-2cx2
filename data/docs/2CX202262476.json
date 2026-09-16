@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202262476",
+ "refDisplay": "2CX2 0 226 2476",
+ "title": "TUBE C/C TUBE ALIMENTATION A POMPE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "ref": "2CX202392581",
+ "refDisplay": "2CX2 0 239 2581",
+ "title": "LEVIER DE RENVOI FREIN PARKING",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

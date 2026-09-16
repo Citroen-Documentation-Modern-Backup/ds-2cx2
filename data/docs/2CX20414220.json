@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20414220",
+ "refDisplay": "2CX2 0 41 4220",
+ "title": "CABLE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

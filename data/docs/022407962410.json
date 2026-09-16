@@ -1,0 +1,18 @@
+{
+ "ref": "022407962410",
+ "refDisplay": "0224 07 962410",
+ "title": "GLACES DE PANNEAU DE COTE",
+ "nature": "",
+ "applicability": " SAUF RALLONGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0130"
+  }
+ ]
+}

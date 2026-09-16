@@ -1,0 +1,24 @@
+{
+ "ref": "2CX203269012",
+ "refDisplay": "2CX2 0 326 9012",
+ "title": "GARNITURE INF AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022407744810",
+ "refDisplay": "0224 07 744810",
+ "title": "PLANCHER CABINE - LONGERONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0127"
+  }
+ ]
+}

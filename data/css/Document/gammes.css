@@ -1,0 +1,64 @@
+.attention_viewerCGM {
+	color: #213D87;
+	text-decoration: none;	
+	font-weight: bold; 
+	font-family: "Arial Unicode MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height : 25px;	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position : left;
+	background-color: #F6CC20;
+	clear: right;
+	display: block;
+	
+	width: 100%;
+	border: none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.sti1 {
+	font-size: 18pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:30px;
+	padding-bottom:5px;
+}
+
+.sti2 {
+	font-size: 14pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:20px;
+	padding-bottom:5px;
+}
+
+.sti3 {
+	font-size: 12pt;
+	text-align: left;
+	font-weight: bold;
+	padding-top:10px;
+	padding-bottom:5px;
+}
+
+.par {
+}
+
+.rem {
+}
+
+
+
+.tete {
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 5px;
+
+}
+
+a.lienHyperTexte  {
+	font-family:Arial Unicode MS; font-size:14px; color:#E2801C; font-weight:bold; text-decoration:none;
+}
+a.lienHyperTexte:hover  {
+	font-family:Arial Unicode MS; font-size:14px; color:#2E871F; font-weight:bold; text-decoration:none;
+}

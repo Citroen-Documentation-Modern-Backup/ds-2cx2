@@ -1,0 +1,23 @@
+{
+ "ref": "022408932210",
+ "refDisplay": "0224 08 932210",
+ "title": "SIEGES ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "COMBI ET CLUB JUSQU’A DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

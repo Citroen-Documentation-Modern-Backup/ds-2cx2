@@ -1,0 +1,18 @@
+{
+ "ref": "022402312025",
+ "refDisplay": "0224 02 312025",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO OU GAZOLE ET 2,5L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

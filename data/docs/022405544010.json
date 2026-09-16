@@ -1,0 +1,23 @@
+{
+ "ref": "022405544010",
+ "refDisplay": "0224 05 544010",
+ "title": "ECLAIRAGE ARRIERE",
+ "nature": "",
+ "applicability": "FOURGONS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

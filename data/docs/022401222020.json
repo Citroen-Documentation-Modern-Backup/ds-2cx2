@@ -1,0 +1,18 @@
+{
+ "ref": "022401222020",
+ "refDisplay": "0224 01 222020",
+ "title": "POMPE A HUILE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L JUSQU’A DATE 19830930",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

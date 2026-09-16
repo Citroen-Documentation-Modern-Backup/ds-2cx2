@@ -1,0 +1,24 @@
+{
+ "ref": "2CX203305984",
+ "refDisplay": "2CX2 0 330 5984",
+ "title": "C/C DE SCELLEMENT VITRE LATERALE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

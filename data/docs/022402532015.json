@@ -1,0 +1,18 @@
+{
+ "ref": "022402532015",
+ "refDisplay": "0224 02 532015",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "DIESEL ET CRD93",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

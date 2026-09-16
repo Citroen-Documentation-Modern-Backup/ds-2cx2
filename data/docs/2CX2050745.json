@@ -1,0 +1,19 @@
+{
+ "ref": "2CX2050745",
+ "refDisplay": "2CX2 0 5 0745",
+ "title": "ENSEMBLE DES BLOCS ELASTIQUES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

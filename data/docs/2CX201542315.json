@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201542315",
+ "refDisplay": "2CX2 0 154 2315",
+ "title": "AMORTISSEUR AV 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0028"
+  }
+ ]
+}

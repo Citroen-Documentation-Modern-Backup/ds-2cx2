@@ -1,0 +1,18 @@
+{
+ "ref": "022407856010",
+ "refDisplay": "0224 07 856010",
+ "title": "PLANCHE DE BORD",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19840601",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

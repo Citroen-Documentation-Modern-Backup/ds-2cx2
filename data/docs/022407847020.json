@@ -1,0 +1,23 @@
+{
+ "ref": "022407847020",
+ "refDisplay": "0224 07 847020",
+ "title": "PORTE ARRIERE",
+ "nature": "",
+ "applicability": "REHAUSSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  }
+ ]
+}

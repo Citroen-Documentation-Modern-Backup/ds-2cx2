@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203075905",
+ "refDisplay": "2CX2 0 307 5905",
+ "title": "ENCADREMENT VITRE INT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0106"
+  }
+ ]
+}

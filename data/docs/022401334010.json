@@ -1,0 +1,18 @@
+{
+ "ref": "022401334010",
+ "refDisplay": "0224 01 334010",
+ "title": "ARBRES ET PIGNONS",
+ "nature": "",
+ "applicability": "BVM5 ET BVM ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

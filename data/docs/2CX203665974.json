@@ -1,0 +1,24 @@
+{
+ "ref": "2CX203665974",
+ "refDisplay": "2CX2 0 366 5974",
+ "title": "VITRE DE PORTE LATERALE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

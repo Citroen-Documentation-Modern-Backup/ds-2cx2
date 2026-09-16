@@ -1,0 +1,18 @@
+{
+ "ref": "022406183021E",
+ "refDisplay": "0224 06 183021E",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "DIESEL ET TURBO ET 1,930L ET CATALYSEUR ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

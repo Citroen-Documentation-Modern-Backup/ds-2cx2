@@ -1,0 +1,23 @@
+{
+ "ref": "022407844310",
+ "refDisplay": "0224 07 844310",
+ "title": "PORTE LATERALE BATTANTE",
+ "nature": "",
+ "applicability": "1 PORTE LATERALE ET FOURGON VITRE REHAUS ET REHAUSSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

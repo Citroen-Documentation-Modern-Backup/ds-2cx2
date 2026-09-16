@@ -1,0 +1,19 @@
+{
+ "ref": "2CX205205407",
+ "refDisplay": "2CX2 0 520 5407",
+ "title": "FAISCEAU DIAGNOSTIC",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20850920",
+ "refDisplay": "2CX2 0 85 0920",
+ "title": "BAGUE ETANCH BOITIER DIFFERENTIEL DROIT OU 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

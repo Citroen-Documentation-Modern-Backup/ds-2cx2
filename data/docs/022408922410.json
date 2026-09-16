@@ -1,0 +1,23 @@
+{
+ "ref": "022408922410",
+ "refDisplay": "0224 08 922410",
+ "title": "SIEGE AVANT - ARMATURE - SANGLE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

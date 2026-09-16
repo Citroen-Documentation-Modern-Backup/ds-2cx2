@@ -1,0 +1,18 @@
+{
+ "ref": "022405564310",
+ "refDisplay": "0224 05 564310",
+ "title": "ESSUIE-LAVE PHARE",
+ "nature": "",
+ "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "022401332310",
+ "refDisplay": "0224 01 332310",
+ "title": "COMMANDE DE COMPTEUR",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19930701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

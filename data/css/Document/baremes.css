@@ -1,0 +1,341 @@
+/*	Feuilles de styles des Barèmes des temps
+	version 1.0
+*/
+
+/* Table des mains d'oeuvres */
+.moTable
+{
+	width: 100%;
+	border: solid 1pt black;
+	border-collapse:collapse;
+}
+.imageBDT 
+{
+	text-align:center; 
+	border:solid 1pt black; 
+	margin-bottom: 10pt;	
+}
+.repereCol
+{
+	width: 2%;
+}
+.ipCol
+{
+	width: 2%;
+}
+.operationCol
+{
+	width: 72%;
+}
+.codeCol
+{
+	border-left: solid 1pt black;
+	width: 10%;
+}
+.operationColVal
+{
+	border-top: solid 1pt black;
+	width: 72%;
+}
+.codeColVal
+{
+	border-left: solid 1pt black;
+	border-top: solid 1pt black;
+	width: 10%;
+}
+.tauxCol
+{
+	border-left: solid 1pt black;
+	width: 6%;
+}
+.tempsCol
+{
+	width: 8%;
+}
+
+.repereColIp
+{
+	width: 2%;
+	border-top: solid 1pt black;
+}
+.ipColIp
+{
+	width: 2%;
+	border-top: solid 1pt black;
+}
+.operationColIp
+{
+	width: 72%;
+	border-top: solid 1pt black;
+}
+.codeColIp
+{
+	width: 10%;
+	border-left: solid 1pt black;
+	border-top: solid 1pt black;
+}
+.tauxColIp
+{
+	width: 6%;
+	border-top: solid 1pt black;
+	border-bottom: solid 1pt black;
+	vertical-align: middle;
+}
+.tempsColIp
+{
+	width: 8%;
+	border-top: solid 1pt black;
+	border-bottom: solid 1pt black;
+	vertical-align: middle;
+
+}
+
+
+.applmicro {
+	font-style: italic;
+	font-size: 8pt;
+	text-align: left;
+	color: #008000;
+	text-transform:uppercase;
+}
+
+.applmicroIpsuppl {
+	font-style: italic;
+	font-size: 8pt;
+	text-align: left;
+	color: #008000;
+	text-transform:uppercase;
+	padding-left: 40px;
+}
+
+
+.ipcomp_title {
+	font-size: 8pt;
+	padding-left:20px;
+	font-weight:bold;
+}
+.ipcomp_label {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipcomp_idmodsit {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipcomp_idmodorg {
+	font-size: 8pt;
+	padding-left:40px;
+
+
+}
+.ipcomp_code-mo {
+	font-size: 8pt;
+	text-align: center;
+}
+
+.ipsuppl_title{
+	font-size: 8pt;
+	padding-left:20px;
+	font-weight: bold;
+}
+.ipsuppl_label {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipsuppl_taux{
+	font-size: 8pt;
+	text-align: center;
+}
+.ipsuppl_temps{
+	font-size: 8pt;
+	text-align: center;
+}
+.ipsuppl_ipcomp_title
+{
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipsuppl_ipcomp_label
+{
+	font-size: 8pt;
+	padding-left:60px;
+}
+
+.ipsuppl_ipcomp_idmodorg
+{
+	font-size: 8pt;
+	padding-left:60px;
+}
+
+.ipsuppl_ipcomp_idmodsit
+{
+	font-size: 8pt;
+	padding-left:60px;
+}
+
+.ipsuppl_ipcomp_code-mo
+{
+	font-size: 8pt;
+	text-align: center;
+}
+
+
+.ipsuppl_code-mo {
+	font-size: 8pt;
+	text-align: center;
+}
+.ipsuppl_code-mod {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipsuppl_idmodsit {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ipsuppl_idmodorg {
+	font-size: 8pt;
+	padding-left:40px;
+}
+.ip_label{
+	font-size: 8pt;
+	font-weight: bold;
+}
+.ip_taux{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+}
+.ip_temps{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+}
+.ip_code-mo {
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+.libcomp_idmodsit {
+	font-size: 8pt;
+}
+.libcomp_idmodsit {
+	font-size: 8pt;
+}
+.temps_code-mod {
+	padding-left:20px;
+	font-weight: bold;
+	font-size: 8pt;	
+}
+.applmacro {
+	height:10%;
+	font-style: italic;
+	text-align: center;
+	padding-top: 5pt;
+	padding-bottom: 5pt;
+	color: #008000;
+	border-color: black;
+	border-top: solid 1pt;
+	border-left: solid 1pt;
+	border-right: solid 1pt;
+	overflow:auto;
+}
+.repere {
+	width: 10pt;
+	border-right: solid 1pt black;
+}
+.operation
+{
+}
+.code {
+	border-left: solid 1pt;
+	text-align: center;
+	width: 60pt;
+}
+.taux {
+	border-left: solid 1pt;
+	width: 40pt;
+}
+.temps {
+	border-left: solid 1pt;
+	width: 50pt;
+}
+.tauxCol{
+	border-left: solid 1pt;
+	width: 40pt;
+	vertical-align: middle;
+}
+.tauxColIp{
+	border-left: solid 1pt;
+	width: 40pt;
+	border-top: solid 1pt;
+}
+.tempsCol{
+	border-left: solid 1pt;
+	vertical-align: middle;
+	width: 50pt;
+}
+.tempsColIp{
+	border-left: solid 1pt;
+	width: 50pt;
+	border-top: solid 1pt;
+}
+.ipSelect TD
+{
+	cursor:pointer;
+}
+
+
+.operation .ip_label{
+	font-size: 8pt;
+	font-weight: bold;
+	padding-bottom: 10px;
+	width: auto;
+}
+
+.operation_valtemps {
+	margin-top:10pt;
+	border-top: solid 1pt;
+	width:auto;
+}
+
+.code_valtemps {
+	border-top: solid 1pt;
+	border-left: solid 1pt;
+}
+.repere_ip {
+	border-top: solid 1pt;
+	width: 10pt;
+}
+.operation_ip
+{
+	border-top: solid 1pt;
+	width:auto;
+}
+.code_ip {
+	border-left: solid 1pt;
+	text-align: center;
+	border-top: solid 1pt;
+	width: 60pt;
+}
+.taux_ip {
+	border-left: solid 1pt;
+	border-top: solid 1pt;
+	width: 40pt;
+}
+.temps_ip {
+	border-left: solid 1pt;
+	border-top: solid 1pt;
+	width: 50pt;
+}
+
+.ip
+{
+	width: 30pt;
+}
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+{
+ "ref": "022408932212",
+ "refDisplay": "0224 08 932212",
+ "title": "SIEGES ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "COMBI SUPER ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

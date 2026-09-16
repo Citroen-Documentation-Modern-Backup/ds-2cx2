@@ -1,0 +1,23 @@
+{
+ "ref": "022406175410",
+ "refDisplay": "0224 06 175410",
+ "title": "ANTI-POLLUTION (CANALISATION)",
+ "nature": "",
+ "applicability": "ESSENCE ET 2L ET (CH) SUISSE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

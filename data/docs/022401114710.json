@@ -1,0 +1,18 @@
+{
+ "ref": "022401114710",
+ "refDisplay": "0224 01 114710",
+ "title": "CARTER D’HUILE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

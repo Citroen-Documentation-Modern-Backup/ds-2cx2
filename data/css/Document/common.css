@@ -1,0 +1,592 @@
+/*	Feuilles de styles des ÚlÚments communs LASER
+	version 1.0
+*/
+
+BODY
+{
+	font-size: 10pt;
+	font-family: Arial Unicode MS;
+	margin-top: 0pt;
+	margin-left: 0pt;
+	margin-bottom: 0pt;
+	margin-right: 0pt;
+	overflow:hidden;
+}
+TD
+{
+	font-family: Arial Unicode MS;
+	font-size:10pt;
+	vertical-align:top;
+}
+TH
+{
+	font-family: Arial Unicode MS;
+	font-size:8pt;
+	border-bottom: solid 1pt black;
+	text-align: center;
+}
+THEAD {
+	border-bottom: solid 1pt;
+	padding: 5pt;
+	font-size: 8pt;
+	text-align: center;
+	font-weight: bold;
+}
+/* Elements non affiche */
+.hide
+{
+	display: none;
+}
+
+/* Chaine de versement pour les ÚlÚments actifs*/
+.versement
+{
+	display: none;
+}
+/* EntÛte et pieds de page pour l'impression */
+.header
+{
+	display: none;
+	width:100%;
+}
+.footer
+{
+	display: none;
+	width:100%;
+}
+TABLE.refDoc
+{
+	margin-top:0;
+	margin-bottom:0;
+	border: none 0pt black;
+	width: 100%;
+	border-collapse:collapse;
+}
+
+TD.references
+{
+	vertical-align:middle;
+	font-size: 10pt;
+	font-weight: normal;
+	width:20%;
+	text-align:center;
+	text-transform:uppercase;
+	border-right:solid 1pt black;
+	border-bottom:none;
+	border-left:none;
+	border-top:none;
+}
+TD.condApp
+{
+	vertical-align:middle;
+	font-weight: bold;
+	font-size: 10pt;
+	width:80%;
+	text-align: center;
+	text-transform:uppercase;
+	border-bottom:none;
+	border-top:none;
+	border-left:solid 1pt black;
+	border-right:none;
+}
+
+TD.title
+{
+	vertical-align:middle;
+	font-weight: bold;
+	font-size: 12pt;
+	width:80%;
+	border-left:solid 1pt black;
+	text-align: center;
+	text-transform:uppercase;
+	border-bottom:none;
+	border-right:none;
+	border-top:none;
+}
+
+.imageFullScreen
+{
+	height:92%;
+	border:solid 1pt black;
+}
+.legendeFullScreen
+{
+	height:7%;
+}
+/* Styles spÚcifiques Ó l'affichage */
+@media screen
+{
+	.section_titre {
+		font-size: 12pt;
+		height:auto;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		overflow:hidden;
+		border-top: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+	}
+	.section_titre_mpr {
+		font-size: 12pt;
+		height:auto;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		overflow:hidden;
+		border-top: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+	}
+	.section_titre_mpr_print {
+		display: none;
+	}
+	.section_titre_img {
+		font-size: 12pt;
+		height:auto;
+		width:50%;
+		float:right;
+		text-align: center;
+		font-weight: bold;
+		overflow:auto;
+		border-top: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+	}
+	.section_titre_print {
+		display:none;
+	}
+	DIV.condApp
+	{
+		display:none;
+	}
+	DIV.title
+	{
+		display:none;
+	}
+
+/*
+	.references {
+		float:left;
+		width: 20%;
+		font-size: 10pt;
+		font-weight: normal;
+		border-collapse:collapse;
+		border-right:solid 1pt;
+		padding-top:5px;
+		padding-bottom:5px;
+	}
+
+	.title {
+		float:right;
+		width: 80%;
+		border-left:solid 1pt;
+		padding-top:5px;
+		padding-bottom:5px;
+	}
+*/
+	.section_libel {
+		position:relative;
+		float:right;
+		height: auto;
+		width: 100%;
+		overflow:hidden;
+	}
+	.section_cond {
+		font-size: 10pt;
+		float:right;
+		height:auto;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		overflow:hidden;
+	}
+	.section_corps_inc_ap {
+		width: 100%;
+		overflow:auto;
+		height:auto;
+		border-top: solid 1pt;
+		border-bottom: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+		padding: 10px;
+	}
+	.section_appl {
+		font-size: 10pt;
+		width:100%;
+		height:auto;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color: #008000;
+		border-color: black;
+		border-top: solid 1pt;
+		border-left: solid 1pt;
+		border-right: solid 1pt;
+		overflow:auto;
+		text-transform:uppercase;
+		font-color: black;
+	}
+	.section_appl_img {
+		font-size: 10pt;
+		width:50%;
+		float:right;
+		position:relative;
+		height:auto;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color: #008000;
+		border-color: black;
+		border-top: solid 1pt;
+		border-left: solid 1pt;
+		border-right: solid 1pt;
+		overflow:auto;
+		text-transform:uppercase;
+	}
+	.section_appl_mpr {
+		font-size: 10pt;
+		width:50%;
+		float:right;
+		height:auto;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color: #008000;
+		border-color: black;
+		border-top: solid 1pt;
+		border-left: solid 1pt;
+		border-right: solid 1pt;
+		overflow:auto;
+		text-transform:uppercase;
+	}
+	.section_appl_mpr_print {
+		font-size: 10pt;
+		width:50%;
+		float:right;
+		height:auto;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		color: #008000;
+		border-color: black;
+		border-top: solid 1pt;
+		border-left: solid 1pt;
+		border-right: solid 1pt;
+		overflow:auto;
+		text-transform:uppercase;
+		display: none;
+	}
+
+
+	.section_corps {
+		/*width: 100%;*/
+		/*height:100%;*/
+		overflow:auto;
+		/*height:auto;*/
+		border-top: solid 1pt;
+		border-bottom: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+		padding: 0px 10px 0px 10px;
+		/*position:absolute;*/
+	}
+
+	
+	.section_corps_img {
+		width: 50%;
+		float:right;
+		overflow:auto;
+		height:auto;
+		border-top: solid 1pt;
+		border-bottom: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+		padding: 0;
+	}
+	.content_mpr {
+		width: 50%;
+		overflow:auto;
+		height:100%;
+		float:right;
+	}
+	.section_corps_mpr {
+		width: 100%;
+		float:right;
+		overflow:auto;
+		height:auto;
+		border-top: solid 1pt;
+		border-bottom: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+		padding: 0;
+	}
+	.section_image
+	{
+		float:left;
+		width:49%;
+		height:100%;
+	}
+	.section_image_print
+	{
+		display:none;
+	}
+	.section_image_mpr
+	{
+		float:left;
+		width:900pt;
+		height:900pt;
+		display:none;
+	}
+	.section_corps_sans_appl {
+		width: 100%;
+		overflow:auto;
+		height:auto;
+		border-top: solid 1pt;
+		border-bottom: solid 1pt;
+		border-right: solid 1pt;
+		border-left: solid 1pt;
+		border-color: black;
+		padding: 10px;
+	}
+}
+
+/* Styles spÚcifiques Ó l'impression */
+@media print
+{
+	.section_titre {
+		display:none;
+	}
+	.section_titre_img {
+		display:none;
+	}
+
+	.section_titre_print {
+		font-size: 12pt;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		margin-bottom:20pt;
+	}
+	.section_titre_mpr {
+		display: none;
+	}
+	.section_titre_mpr_print {
+		font-size: 12pt;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		margin-bottom:20pt;
+	}
+	.section_appl_mpr {
+		display: none;
+	}
+
+	.section_appl_mpr_print {
+		font-size: 10pt;
+		width:100%;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+		color: #008000;
+		text-transform:uppercase;
+	}
+
+	DIV.condApp
+	{
+		font-weight: bold;
+		font-size: 10pt;
+		width:100%;
+		text-align: center;
+		text-transform:uppercase;
+		border:none;
+	}
+
+	DIV.title
+	{
+		font-weight: bold;
+		font-size: 12pt;
+		width:100%;
+		text-align: center;
+		text-transform:uppercase;
+		border:none;
+	}
+	.section_titre_mpr {
+		font-size: 12pt;
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+	}
+	.section_libel {
+		font-size: 12pt;
+		width:80%;
+		text-align: center;
+		font-weight: bold;
+	}
+	.titreHeader
+	{
+		text-transform:uppercase;
+	}
+	.section_image
+	{
+		position:relative;
+		float:left;
+		width:100%;
+		height:100%;
+		/*display:none;*/
+	}
+	.section_image_print
+	{
+		width:800pt;
+		height:800pt;
+		display:inline;
+	}
+	.section_image_mpr
+	{
+		width:800px;
+		height:800px;
+	}
+	.content_mpr
+	{
+		width: 100%;
+		height:auto;
+	}
+
+	.section_cond {
+		font-size: 12pt;
+		width:80%;
+		text-align: center;
+		font-weight: bold;
+	}
+/*
+	.references {
+		width: 100%;
+		font-weight: normal;
+		font-size: 11pt;
+	}
+
+	.title {
+		width: 100%;
+		padding-top: 5px;
+		border-left:solid 1pt;
+	}
+*/
+	.section_corps_inc_ap {
+		width: 100%;
+		padding: 10px;
+	}
+	.section_appl {
+		font-size: 10pt;
+		width:100%;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+		color: #008000;
+		text-transform:uppercase;
+	}
+	.section_appl_img {
+		font-size: 10pt;
+		width:100%;
+		font-style: italic;
+		text-align: center;
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+		color: #008000;
+		text-transform:uppercase;
+	}
+
+	.section_corps {
+		width: 100%;
+		padding: 10px;
+	}
+	.section_corps_img {
+		width: 100%;
+		padding: 10px;
+	}
+	.section_corps_mpr {
+		width: 100%;
+		padding: 10px;
+	}
+	.section_corps_sans_appl {
+		width: 100%;
+		padding: 10px;
+	}
+	.date TD
+	{
+		font-size: 8pt;
+		width:20%;
+		text-align:left;
+		position:relative;
+		display:inline;
+	}
+	.copyright TD
+	{
+		font-size: 8pt;
+		width:60%;
+		text-align:center;
+		position:relative;
+
+		display:inline;
+	}
+	.page TD
+	{
+		font-size: 8pt;
+		width:20%;
+		text-align:right;
+		position:relative;
+		display:inline;
+	}
+}
+
+
+.applmicro {
+	font-style: italic;
+	font-size: 8pt;
+	text-align: left;
+	color: #008000;
+	text-transform:uppercase;
+}
+.applMicroTpPr
+{
+	font-style: italic;
+	font-size: 8pt;
+	text-align: center;
+	color: #008000;
+	text-transform:uppercase;
+}
+
+.applmacro {
+	font-size: 10pt;
+	font-style: italic;
+	text-align: center;
+	color: #008000;
+	text-transform:uppercase;
+}
+
+/* Layer pour l'affichage des images en plein ecran */
+DIV.FullScreenDiv
+{
+	display:none;
+}
+
+/* VHO - FDZ-1055 probleme impression FF */
+@media print {
+	* {
+		overflow:visible !important;
+		height:auto !important;
+	}
+	
+}

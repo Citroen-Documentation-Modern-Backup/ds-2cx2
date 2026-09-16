@@ -1,0 +1,19 @@
+{
+ "ref": "2CX203247427",
+ "refDisplay": "2CX2 0 324 7427",
+ "title": "PANNEAU COTE INF D OU 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

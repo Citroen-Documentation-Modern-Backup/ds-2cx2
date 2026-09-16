@@ -1,0 +1,23 @@
+{
+ "ref": "022407842010",
+ "refDisplay": "0224 07 842010",
+ "title": "RETROVISEUR EXTERIEUR",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 19900501",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

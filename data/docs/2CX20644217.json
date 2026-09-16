@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20644217",
+ "refDisplay": "2CX2 0 64 4217",
+ "title": "PEDALIER FREIN ET EMBRAYAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

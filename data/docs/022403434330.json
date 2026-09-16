@@ -1,0 +1,18 @@
+{
+ "ref": "022403434330",
+ "refDisplay": "0224 03 434330",
+ "title": "AMORTISSEUR ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A SERIE 00289710",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0032"
+  }
+ ]
+}

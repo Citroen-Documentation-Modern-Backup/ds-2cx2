@@ -1,0 +1,18 @@
+{
+ "ref": "022402212015",
+ "refDisplay": "0224 02 212015",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "2L ET ESSENCE ET (CH) SUISSE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

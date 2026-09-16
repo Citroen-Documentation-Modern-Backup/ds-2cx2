@@ -1,0 +1,18 @@
+{
+ "ref": "022401343010",
+ "refDisplay": "0224 01 343010",
+ "title": "DIFFERENTIEL",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

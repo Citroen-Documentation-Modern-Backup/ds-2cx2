@@ -1,0 +1,28 @@
+{
+ "ref": "022408934330",
+ "refDisplay": "0224 08 934330",
+ "title": "BANQUETTE INTERMEDIAIRE - ARMATURE",
+ "nature": "",
+ "applicability": "COMBI SUPER ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0226"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

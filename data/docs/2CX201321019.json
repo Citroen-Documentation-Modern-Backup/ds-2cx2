@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201321019",
+ "refDisplay": "2CX2 0 132 1019",
+ "title": "ENTRAINEUR AVEC ROTULES 2 OU ARBRES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

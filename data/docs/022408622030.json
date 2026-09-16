@@ -1,0 +1,23 @@
+{
+ "ref": "022408622030",
+ "refDisplay": "0224 08 622030",
+ "title": "SUPPORT DE ROUE DE SECOURS ACCESSOIRES",
+ "nature": "",
+ "applicability": "COMBI LUXE ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

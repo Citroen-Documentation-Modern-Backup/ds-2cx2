@@ -1,0 +1,23 @@
+{
+ "ref": "022408922420",
+ "refDisplay": "0224 08 922420",
+ "title": "SIEGE AVANT - NAPPE CHAUFFANTE -",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

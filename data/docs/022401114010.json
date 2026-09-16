@@ -1,0 +1,28 @@
+{
+ "ref": "022401114010",
+ "refDisplay": "0224 01 114010",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

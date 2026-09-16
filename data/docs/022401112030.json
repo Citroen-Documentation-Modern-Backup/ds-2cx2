@@ -1,0 +1,23 @@
+{
+ "ref": "022401112030",
+ "refDisplay": "0224 01 112030",
+ "title": "CULASSE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0304"
+  }
+ ]
+}

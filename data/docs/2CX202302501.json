@@ -1,0 +1,24 @@
+{
+ "ref": "2CX202302501",
+ "refDisplay": "2CX2 0 230 2501",
+ "title": "FREINS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0041"
+  }
+ ]
+}

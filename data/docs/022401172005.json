@@ -1,0 +1,18 @@
+{
+ "ref": "022401172005",
+ "refDisplay": "0224 01 172005",
+ "title": "TURBO - RACCORDS - ECHANGEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0014"
+  }
+ ]
+}

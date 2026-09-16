@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204238985",
+ "refDisplay": "2CX2 0 423 8985",
+ "title": "1 APPUIE-TETE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

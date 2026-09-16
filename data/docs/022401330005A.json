@@ -1,0 +1,18 @@
+{
+ "ref": "022401330005A",
+ "refDisplay": "0224 01 330005A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "GAZOLE ET VOIR A)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

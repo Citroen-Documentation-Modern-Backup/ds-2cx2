@@ -1,0 +1,19 @@
+{
+ "ref": "2CX20291501",
+ "refDisplay": "2CX2 0 29 1501",
+ "title": "RESERVOIR A CARBURANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

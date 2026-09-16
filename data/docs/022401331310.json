@@ -1,0 +1,18 @@
+{
+ "ref": "022401331310",
+ "refDisplay": "0224 01 331310",
+ "title": "FIXATION BV SUR CARTER D’EMBRAYAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

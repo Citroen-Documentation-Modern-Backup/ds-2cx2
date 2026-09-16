@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204015205",
+ "refDisplay": "2CX2 0 401 5205",
+ "title": "1 BLOC OPTIQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  }
+ ]
+}

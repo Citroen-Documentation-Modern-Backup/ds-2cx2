@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204065150",
+ "refDisplay": "2CX2 0 406 5150",
+ "title": "PLAFONNIER AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  }
+ ]
+}

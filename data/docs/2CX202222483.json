@@ -1,0 +1,19 @@
+{
+ "ref": "2CX202222483",
+ "refDisplay": "2CX2 0 222 2483",
+ "title": "AXE INFERIEUR DE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0035"
+  }
+ ]
+}

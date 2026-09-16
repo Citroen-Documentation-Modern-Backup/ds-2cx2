@@ -1,0 +1,23 @@
+{
+ "ref": "022404455710",
+ "refDisplay": "0224 04 455710",
+ "title": "FREIN A MAIN - CABLES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

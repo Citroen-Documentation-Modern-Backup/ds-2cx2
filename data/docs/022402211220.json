@@ -1,0 +1,18 @@
+{
+ "ref": "022402211220",
+ "refDisplay": "0224 02 211220",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L ET 2L DEPUIS DATE 19830701 JUSQU’A SERIE 00244363",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

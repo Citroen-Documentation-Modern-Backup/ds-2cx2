@@ -1,0 +1,18 @@
+{
+ "ref": "022402532051",
+ "refDisplay": "0224 02 532051",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET TURBO DEPUIS SERIE 00172001",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

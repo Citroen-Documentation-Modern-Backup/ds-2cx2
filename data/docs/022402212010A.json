@@ -1,0 +1,18 @@
+{
+ "ref": "022402212010A",
+ "refDisplay": "0224 02 212010A",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,796L ET 2L DEPUIS SERIE 00244363",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

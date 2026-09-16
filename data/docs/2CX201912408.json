@@ -1,0 +1,19 @@
+{
+ "ref": "2CX201912408",
+ "refDisplay": "2CX2 0 191 2408",
+ "title": "2 LEVIERS DIRECTION SUR PIVOTS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0026"
+  }
+ ]
+}

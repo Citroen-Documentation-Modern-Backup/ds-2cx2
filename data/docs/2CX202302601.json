@@ -1,0 +1,24 @@
+{
+ "ref": "2CX202302601",
+ "refDisplay": "2CX2 0 230 2601",
+ "title": "FREINAGE ET SUSPENSION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0041"
+  }
+ ]
+}

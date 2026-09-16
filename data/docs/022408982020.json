@@ -1,0 +1,23 @@
+{
+ "ref": "022408982020",
+ "refDisplay": "0224 08 982020",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "COMBI SUPER ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

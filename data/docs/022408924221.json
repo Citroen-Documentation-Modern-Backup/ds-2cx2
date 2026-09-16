@@ -1,0 +1,23 @@
+{
+ "ref": "022408924221",
+ "refDisplay": "0224 08 924221",
+ "title": "BANQUETTE AVANT DROITE SUPPORT PANNEAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

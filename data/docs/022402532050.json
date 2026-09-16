@@ -1,0 +1,18 @@
+{
+ "ref": "022402532050",
+ "refDisplay": "0224 02 532050",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L ET (S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE DEPUIS DATE 19821201 JUSQU’A SERIE 00172000",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

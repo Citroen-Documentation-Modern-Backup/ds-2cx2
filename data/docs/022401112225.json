@@ -1,0 +1,23 @@
+{
+ "ref": "022401112225",
+ "refDisplay": "0224 01 112225",
+ "title": "COUVRE CULASSE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,5L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "022405522710",
+ "refDisplay": "0224 05 522710",
+ "title": "ACCESSOIRES DE CONSOLE",
+ "nature": "",
+ "applicability": "TITI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

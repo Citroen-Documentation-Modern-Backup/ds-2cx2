@@ -1,0 +1,18 @@
+{
+ "ref": "022408932333",
+ "refDisplay": "0224 08 932333",
+ "title": "SIEGES ARRIERE - COIFFE - ACCOUDOIR",
+ "nature": "",
+ "applicability": "COMBI SUPER ET 800 KG",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

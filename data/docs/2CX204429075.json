@@ -1,0 +1,19 @@
+{
+ "ref": "2CX204429075",
+ "refDisplay": "2CX2 0 442 9075",
+ "title": "GARNITURE DE PIED AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CX2",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}
