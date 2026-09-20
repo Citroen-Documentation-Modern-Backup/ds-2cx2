@@ -1,18 +1,1 @@
-{
- "ref": "022402532423",
- "refDisplay": "0224 02 532423",
- "title": "ALTERNATEUR - FIXATION COURROIE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532423","refDisplay":"0224 02 532423","title":"ALTERNATEUR - FIXATION COURROIE","nature":"","applicability":"GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002163"},[]],["thesaurus",{"type":"10","code":"007624"},[]],["thesaurus",{"type":"10","code":"004671"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"007630"},[]],["mpr",{"catal":"0224","grp":"496","grp2":"02","maj":"20111022","numfich":"532423"},[["appl",{},["{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}"]],["sti",{"ident":"NL532401"},[]],["img",{"numfich":"25324230","path":"/img/pr/30/2532/25324230.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002163","obsnfp":"NFP","ref":"0000570667","refpg":"5706 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007624","obsnfp":"NFP","ref":"0000570341","refpg":"5703 41"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004671","obsnfp":"NFP","ref":"ZF11198674","refpg":"ZF 11 198 674"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["13X24-4"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004651","obsnfp":"NFP","ref":"0000693225","refpg":"6932 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X125-10"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000692272","refpg":"6922 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691462","refpg":"6914 62"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007630","obsnfp":"NFP","ref":"ZF11198074","refpg":"ZF 11 198 074"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004651","obsnfp":"NFP","ref":"0000570346","refpg":"5703 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X125-6"]]]]]]]]]]]]}

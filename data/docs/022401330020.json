@@ -1,18 +1,1 @@
-{
- "ref": "022401330020",
- "refDisplay": "0224 01 330020",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L ET BVM5",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"022401330020","refDisplay":"0224 01 330020","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GAZOLE ET 1,905L ET BVM5","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)(B0G05)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0007325"},[]],["thesaurus",{"type":"21","code":"L1479259"},[]],["mpr",{"catal":"0224","grp":"67 91","grp2":"01","maj":"20111022","numfich":"330020"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)(B0G05)}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0007325"},[]],["img",{"numfich":"23300200","path":"/img/pr/00/2330/23300200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"LE-0009","ref":"00002200PK","refpg":"2200 PK"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1479259"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]],["reporg",{},[["monte",{},[" 2HE09"]],["monte",{},[" HE88"]],["monte",{},[" 2HE62"]],["monte",{},["(2JE54)"]],["monte",{},[" 2HE32"]],["monte",{},[" 2HE78"]],["monte",{},[" 2HE88"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201R1","refpg":"2201 R1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19871001,5,19900101)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]],["reporg",{},[["monte",{},[" 2HE09"]],["monte",{},["(2HEK9)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"000022010J","refpg":"2201 0J"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900101,5,19911101)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]],["reporg",{},[["monte",{},["(2HEF2)"]],["monte",{},[" 2HE62"]],["monte",{},[" HE32"]],["monte",{},[" 2HE32"]],["monte",{},[" HEC2"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"000022019Q","refpg":"2201 9Q"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19911101,5,19930701)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]],["reporg",{},[["monte",{},["(2HEH8)"]],["monte",{},[" 2HE88"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201CJ","refpg":"2201 CJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19930701,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]],["reporg",{},[["monte",{},[" 2HE09"]],["monte",{},[" 2JE54"]],["monte",{},[" HE88"]],["monte",{},[" 2HE62"]],["monte",{},["(2JEE4)"]],["monte",{},[" 2HE32"]],["monte",{},[" 2HE78"]],["monte",{},[" 2HE88"]]]]]]]]]]]]}

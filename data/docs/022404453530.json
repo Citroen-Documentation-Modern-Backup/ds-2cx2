@@ -1,18 +1,1 @@
-{
- "ref": "022404453530",
- "refDisplay": "0224 04 453530",
- "title": "MAITRE CYLINDRE - RESERVOIR",
- "nature": "",
- "applicability": "TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0045"
-  }
- ]
-}
+{"ref":"022404453530","refDisplay":"0224 04 453530","title":"MAITRE CYLINDRE - RESERVOIR","nature":"","applicability":"TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0045"}],"kind":"pr","appl":"{(?2CX2)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006693"},[]],["thesaurus",{"type":"10","code":"006427"},[]],["thesaurus",{"type":"10","code":"001028"},[]],["thesaurus",{"type":"10","code":"001537"},[]],["thesaurus",{"type":"10","code":"001748"},[]],["thesaurus",{"type":"10","code":"005717"},[]],["thesaurus",{"type":"10","code":"001348"},[]],["thesaurus",{"type":"21","code":"L1482058"},[]],["thesaurus",{"type":"21","code":"L1482057"},[]],["mpr",{"catal":"0224","grp":"238","grp2":"04","maj":"20111022","numfich":"453530"},[["appl",{},["{(?2CX2)(DAZ09)}"]],["sti",{"ident":"NL453501"},[]],["img",{"numfich":"24535300","path":"/img/pr/00/2453/24535300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006693","obsnfp":"NFP","ref":"0000453583","refpg":"4535 83"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($,,5,19900701)/}"]],["obsligne",{"ident":"L1482058"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 200"]]]]]],["pr",{"codesi":"006693","obsnfp":"NFP","ref":"0000453597","refpg":"4535 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900701,,)/}"]],["obsligne",{"ident":"L1482057"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 200"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006427","obsnfp":"NFP","ref":"0000463558","refpg":"4635 58"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001028","obsnfp":"NFP","ref":"0000464328","refpg":"4643 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"54"},[["pr",{"codesi":"001537","obsnfp":"NFP","ref":"0000460911","refpg":"4609 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)/($,,5,19900501)/}"]]]]]],["pr",{"codesi":"001537","obsnfp":"NFP","ref":"0000460912","refpg":"4609 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)/($5,19900501,,)/}"]]]]]]]],["repere",{"rep":"55"},[["pr",{"codesi":"001748","obsnfp":"NFP","ref":"0000465214","refpg":"4652 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]]]],["repere",{"rep":"56"},[["pr",{"codesi":"005717","obsnfp":"NFP","ref":"0000465215","refpg":"4652 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]]]],["repere",{"rep":"57"},[["pr",{"codesi":"001348","obsnfp":"NFP","ref":"0000460220","refpg":"4602 20"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]]]]]]]]}

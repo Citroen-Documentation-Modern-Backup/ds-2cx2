@@ -1,18 +1,1 @@
-{
- "ref": "022405571010",
- "refDisplay": "0224 05 571010",
- "title": "AVERTISSEUR SONORE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0314"
-  }
- ]
-}
+{"ref":"022405571010","refDisplay":"0224 05 571010","title":"AVERTISSEUR SONORE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0314"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002399"},[]],["thesaurus",{"type":"10","code":"004668"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"0224","grp":"531","grp2":"05","maj":"20111022","numfich":"571010"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL571001"},[]],["img",{"numfich":"25710100","path":"/img/pr/00/2571/25710100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002399","ref":"00006236F1","refpg":"6236 F1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004668","ref":"0000695306","refpg":"6953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X15-2,2"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006028","ref":"0000693680","refpg":"6936 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-9,7-13"]]]]]]]]]]]]}

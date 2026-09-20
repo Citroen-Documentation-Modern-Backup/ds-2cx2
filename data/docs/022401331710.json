@@ -1,18 +1,1 @@
-{
- "ref": "022401331710",
- "refDisplay": "0224 01 331710",
- "title": "BOITE TRANSFERT",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0020"
-  }
- ]
-}
+{"ref":"022401331710","refDisplay":"0224 01 331710","title":"BOITE TRANSFERT","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0020"}],"kind":"pr","appl":"{(?2CX2)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001160"},[]],["thesaurus",{"type":"10","code":"000367"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["mpr",{"catal":"0224","grp":"111 115","grp2":"01","maj":"20111022","numfich":"331710"},[["appl",{},["{(?2CX2)(%4X4)}"]],["sti",{"ident":"NL331701"},[]],["img",{"numfich":"23317100","path":"/img/pr/00/2331/23317100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001160","obsnfp":"NFP","ref":"0000220773","refpg":"2207 73"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000367","obsnfp":"NFP","ref":"0000226621","refpg":"2266 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","ref":"00006917A5","refpg":"6917 A5"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-16"]]]]]]]]]]]]}

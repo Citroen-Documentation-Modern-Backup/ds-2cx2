@@ -1,18 +1,1 @@
-{
- "ref": "022402211240",
- "refDisplay": "0224 02 211240",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 2L ET (A) AUTRICHE ET (CH) SUISSE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"022402211240","refDisplay":"0224 02 211240","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 2L ET (A) AUTRICHE ET (CH) SUISSE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0FC2)(B0H06)(B0H05)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001781"},[]],["mpr",{"catal":"0224","grp":"44 45 46","grp2":"02","maj":"20111022","numfich":"211240"},[["appl",{},["{(?2CX2)(DCD10)(%B0FC2)(B0H06)(B0H05)}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["22969R"]]]],["img",{"numfich":"22113400","path":"/img/pr/00/2211/22113400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001781","obsnfp":"NFP","ref":"00005900H8","refpg":"5900 H8"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["13286R"]]]]]]]]]]]]]]}

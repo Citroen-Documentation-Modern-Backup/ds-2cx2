@@ -1,18 +1,1 @@
-{
- "ref": "022406643110A",
- "refDisplay": "0224 06 643110A",
- "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
- "nature": "",
- "applicability": " DEPUIS DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406643110A","refDisplay":"0224 06 643110A","title":"COMMANDE DE CHAUFFAGE ET D’AERATION","nature":"","applicability":" DEPUIS DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($5,19900701,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003908"},[]],["thesaurus",{"type":"10","code":"002626"},[]],["thesaurus",{"type":"10","code":"005912"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["thesaurus",{"type":"10","code":"002442"},[]],["thesaurus",{"type":"10","code":"003803"},[]],["thesaurus",{"type":"10","code":"004681"},[]],["thesaurus",{"type":"10","code":"007630"},[]],["mpr",{"catal":"0224","grp":"463","grp2":"06","maj":"20111022","numfich":"643110A"},[["appl",{},["{(?2CX2)/($5,19900701,,)/}"]],["sti",{"ident":"NL643101"},[]],["img",{"numfich":"2643110a","path":"/img/pr/0a/2643/2643110a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003908","obsnfp":"NFP","ref":"0000645186","refpg":"6451 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002626","obsnfp":"NFP","ref":"Y181792580","refpg":"Y1 817 925 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005912","obsnfp":"NFP","ref":"0000647532","refpg":"6475 32"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004792","ref":"00006216C6","refpg":"6216 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12V-W1,2W"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002442","obsnfp":"NFP","ref":"00006450J8","refpg":"6450 J8"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002442","obsnfp":"NFP","ref":"00006450J9","refpg":"6450 J9"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"003803","obsnfp":"NFP","ref":"0000645192","refpg":"6451 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"003803","obsnfp":"NFP","ref":"0000645193","refpg":"6451 93"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"003803","obsnfp":"NFP","ref":"0000645191","refpg":"6451 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"003803","obsnfp":"NFP","ref":"0000645190","refpg":"6451 90"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004681","ref":"0000692498","refpg":"6924 98"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4,2-13"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006925W3","refpg":"6925 W3"},[]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"007630","obsnfp":"NFP","ref":"ZF05967661","refpg":"ZF 05 967 661"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"007630","obsnfp":"NFP","ref":"ZF05981968","refpg":"ZF 05 981 968"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

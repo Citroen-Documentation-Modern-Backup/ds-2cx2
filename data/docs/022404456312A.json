@@ -1,18 +1,1 @@
-{
- "ref": "022404456312A",
- "refDisplay": "0224 04 456312A",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "TURBO ET 1,930L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"022404456312A","refDisplay":"0224 04 456312A","title":"POMPE A VIDE","nature":"","applicability":"TURBO ET 1,930L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0044"}],"kind":"pr","appl":"{(?2CX2)(DAZ09)(%B0F705)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0224","grp":"234","grp2":"04","maj":"20111022","numfich":"456312A"},[["appl",{},["{(?2CX2)(DAZ09)(%B0F705)}"]],["sti",{"ident":"NL456301"},[]],["img",{"numfich":"2456312a","path":"/img/pr/2a/2456/2456312a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","obsnfp":"NFP","ref":"0000456527","refpg":"4565 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005705","obsnfp":"NFP","ref":"0000455610","refpg":"4556 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","obsnfp":"NFP","ref":"0000455611","refpg":"4556 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004660","ref":"0000692923","refpg":"6929 23"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-32-22-18"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004667","ref":"0000694722","refpg":"6947 22"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X16-2"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004669","ref":"0000696261","refpg":"6962 61"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,4"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006142","ref":"0000693635","refpg":"6936 35"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]]]]]]]]}

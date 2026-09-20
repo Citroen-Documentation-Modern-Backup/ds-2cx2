@@ -1,18 +1,1 @@
-{
- "ref": "022406173310",
- "refDisplay": "0224 06 173310",
- "title": "FILTRE A GASOIL",
- "nature": "",
- "applicability": " JUSQU’A SERIE 00121750",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"022406173310","refDisplay":"0224 06 173310","title":"FILTRE A GASOIL","nature":"","applicability":" JUSQU’A SERIE 00121750","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?2CX2)/($,,3,00121750)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000325"},[]],["thesaurus",{"type":"10","code":"000159"},[]],["thesaurus",{"type":"10","code":"014157"},[]],["thesaurus",{"type":"10","code":"016046"},[]],["thesaurus",{"type":"10","code":"000423"},[]],["thesaurus",{"type":"10","code":"005292"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0224","grp":"228","grp2":"06","maj":"20111207","numfich":"173310"},[["appl",{},["{(?2CX2)/($,,3,00121750)/}"]],["sti",{"ident":"NL173301"},[]],["enssup",{},[["fourn",{},["82751W"]]]],["img",{"numfich":"21733100","path":"/img/pr/00/2173/21733100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000325","obsnfp":"NFP","ref":"0000190126","refpg":"1901 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000159","ref":"0000190632","refpg":"1906 32"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001906C9","refpg":"1906 C9"},[]]]],["pr",{"codesi":"014157","ref":"E148002","refpg":"E148002","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"E148104","refpg":"E148104"},[]]]],["pr",{"codesi":"016046","ref":"VFF113","refpg":"VFF113","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($,,3,121750)/}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000423","ref":"0000191208","refpg":"1912 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000423","ref":"0000191207","refpg":"1912 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005292","obsnfp":"NFP","ref":"22458009","refpg":"22 458 009"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12,2X17X1"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005705","ref":"0000190706","refpg":"1907 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 15X19-E 2"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"000423","obsnfp":"NFP","ref":"0000191504","refpg":"1915 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"0000191509","refpg":"1915 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X14,5-2,5"]]]]]]]]]]]]}

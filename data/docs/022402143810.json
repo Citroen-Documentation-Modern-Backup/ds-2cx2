@@ -1,18 +1,1 @@
-{
- "ref": "022402143810",
- "refDisplay": "0224 02 143810",
- "title": "CARBURATEUR-NECESSAIRE DE REPARATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402143810","refDisplay":"0224 02 143810","title":"CARBURATEUR-NECESSAIRE DE REPARATION","nature":"","applicability":"ESSENCE ET 1,796L ET 2L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"22","code":"P0007337"},[]],["mpr",{"catal":"0224","grp":"34","grp2":"02","maj":"20111022","numfich":"143810"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}"]],["sti",{"ident":"NL143801"},[]],["obspage",{"ident":"P0007337"},[]],["enssup",{},[["fourn",{},["18770B"]]]],["img",{"numfich":"21438100","path":"/img/pr/00/2143/21438100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000814","obsnfp":"NFP","ref":"00001417N8","refpg":"1417 N8"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000869","obsnfp":"NFP","ref":"00001417N9","refpg":"1417 N9"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]]]]]]]]}

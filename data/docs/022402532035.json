@@ -1,18 +1,1 @@
-{
- "ref": "022402532035",
- "refDisplay": "0224 02 532035",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532035","refDisplay":"0224 02 532035","title":"ALTERNATEUR","nature":"","applicability":"GAZOLE ET 2,5L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002253"},[]],["thesaurus",{"type":"10","code":"002142"},[]],["thesaurus",{"type":"10","code":"002319"},[]],["thesaurus",{"type":"10","code":"002173"},[]],["thesaurus",{"type":"21","code":"L1480774"},[]],["mpr",{"catal":"0224","grp":"496 497","grp2":"02","maj":"20111022","numfich":"532035"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["9 AR 5097 G"]]]],["img",{"numfich":"25320350","path":"/img/pr/50/2532/25320350.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"00005705K1","refpg":"5705 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1480774"},[]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 7 - 70 AMP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002253","obsnfp":"NFP","ref":"95619624","refpg":"95 619 624"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002142","obsnfp":"NFP","ref":"95618302","refpg":"95 618 302"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002319","obsnfp":"NFP","ref":"95656580","refpg":"95 656 580"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002173","obsnfp":"NFP","ref":"9405722858","refpg":"94 05 722 858"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

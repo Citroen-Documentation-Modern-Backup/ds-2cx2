@@ -1,18 +1,1 @@
-{
- "ref": "022403434350",
- "refDisplay": "0224 03 434350",
- "title": "AMORTISSEUR ARRIERE",
- "nature": "",
- "applicability": "CHASSIS CABINE DEPUIS SERIE 00289711",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0032"
-  }
- ]
-}
+{"ref":"022403434350","refDisplay":"0224 03 434350","title":"AMORTISSEUR ARRIERE","nature":"","applicability":"CHASSIS CABINE DEPUIS SERIE 00289711","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0032"}],"kind":"pr","appl":"{(?2CX2)(%CHASSI)/($3,00289711,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001785"},[]],["thesaurus",{"type":"10","code":"006110"},[]],["thesaurus",{"type":"10","code":"002162"},[]],["thesaurus",{"type":"10","code":"001881"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004668"},[]],["thesaurus",{"type":"10","code":"001999"},[]],["thesaurus",{"type":"21","code":"L1481304"},[]],["mpr",{"catal":"0224","grp":"156","grp2":"03","maj":"20111022","numfich":"434350"},[["appl",{},["{(?2CX2)(%CHASSI)/($3,00289711,,)/}"]],["sti",{"ident":"NL434301"},[]],["img",{"numfich":"24343500","path":"/img/pr/00/2434/24343500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001785","obsnfp":"NFP","ref":"00005206AK","refpg":"5206 AK"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"001785","ref":"00005206Y1","refpg":"5206 Y1"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)(%4X4)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005206WT","refpg":"5206 WT"},[]]]],["pr",{"codesi":"001785","obsnfp":"LE-0204","ref":"7543566","refpg":"7 543 566"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)(%1800)}"]],["obsligne",{"ident":"L1481304"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006110","obsnfp":"NFP","ref":"0000524833","refpg":"5248 33"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"002162","obsnfp":"NFP","ref":"0000524832","refpg":"5248 32"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)(%1800)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006110","obsnfp":"NFP","ref":"0000513804","refpg":"5138 04"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"006110","obsnfp":"NFP","ref":"0000513805","refpg":"5138 05"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)(%1800)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001881","obsnfp":"NFP","ref":"0000513703","refpg":"5137 03"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"001881","obsnfp":"NFP","ref":"0000513707","refpg":"5137 07"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)(%1800)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14X150"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"23888019","refpg":"23 888 019"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X125-60"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004668","ref":"0000695307","refpg":"6953 07"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X18-2,5"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001999","obsnfp":"NFP","ref":"0000514406","refpg":"5144 06"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M12X150"]]]]]],["pr",{"codesi":"001999","obsnfp":"NFP","ref":"0000514409","refpg":"5144 09"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)(%1800)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M14X150"]]]]]]]],["repere",{"rep":"54"},[["pr",{"codesi":"001881","obsnfp":"NFP","ref":"0000513709","refpg":"5137 09"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)(%800)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022404456310A",
- "refDisplay": "0224 04 456310A",
- "title": "POMPE A VIDE (ROTATIVE)",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L DEPUIS SERIE 00751614",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"022404456310A","refDisplay":"0224 04 456310A","title":"POMPE A VIDE (ROTATIVE)","nature":"","applicability":"GAZOLE ET 1,905L DEPUIS SERIE 00751614","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0044"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)/($3,00751614,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"013144"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"22","code":"P0007362"},[]],["mpr",{"catal":"0224","grp":"234","grp2":"04","maj":"20111022","numfich":"456310A"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)/($3,00751614,,)/}"]],["sti",{"ident":"T0089874"},[]],["obspage",{"ident":"P0007362"},[]],["img",{"numfich":"2456310a","path":"/img/pr/0a/2456/2456310a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ref":"0000456543","refpg":"4565 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"013144","ref":"0000455605","refpg":"4556 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 44X48-2"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","ref":"0000455606","refpg":"4556 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X20-2"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000580408","refpg":"5804 08"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"008588","ref":"0000696289","refpg":"6962 89"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X22-2,2"]]]]]]]]]]]]}

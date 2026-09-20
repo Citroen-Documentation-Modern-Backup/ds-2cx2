@@ -1,18 +1,1 @@
-{
- "ref": "022401124110",
- "refDisplay": "0224 01 124110",
- "title": "SOUPAPES - POUSSOIRS",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0006"
-  }
- ]
-}
+{"ref":"022401124110","refDisplay":"0224 01 124110","title":"SOUPAPES - POUSSOIRS","nature":"","applicability":"GAZOLE ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0006"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000630"},[]],["thesaurus",{"type":"10","code":"000631"},[]],["thesaurus",{"type":"10","code":"005607"},[]],["thesaurus",{"type":"10","code":"000742"},[]],["thesaurus",{"type":"10","code":"000232"},[]],["thesaurus",{"type":"10","code":"000240"},[]],["thesaurus",{"type":"10","code":"000843"},[]],["mpr",{"catal":"0224","grp":"12","grp2":"01","maj":"20111022","numfich":"124110"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)}"]],["sti",{"ident":"NL124101"},[]],["img",{"numfich":"21241100","path":"/img/pr/00/2124/21241100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000630","ref":"0000094859","refpg":"0948 59"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 38,5"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000631","obsnfp":"NFP","ref":"0000094960","refpg":"0949 60"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)/($,,5,19920201)/}"]]]]]],["pr",{"codesi":"000631","ref":"0000094973","refpg":"0949 73"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)/($5,19920202,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 33"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005607","ref":"0000095317","refpg":"0953 17"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000742","ref":"0000095264","refpg":"0952 64"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000232","ref":"0000095113","refpg":"0951 13"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000240","ref":"0000095005","refpg":"0950 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000843","ref":"0000094241","refpg":"0942 41"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 34-HAUT 25"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022405522710",
- "refDisplay": "0224 05 522710",
- "title": "ACCESSOIRES DE CONSOLE",
- "nature": "",
- "applicability": "TITI",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"022405522710","refDisplay":"0224 05 522710","title":"ACCESSOIRES DE CONSOLE","nature":"","applicability":"TITI","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?2CX2)(%B0JTIT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002130"},[]],["thesaurus",{"type":"10","code":"002717"},[]],["thesaurus",{"type":"10","code":"009624"},[]],["thesaurus",{"type":"10","code":"002678"},[]],["mpr",{"catal":"0224","grp":"415","grp2":"05","maj":"20111022","numfich":"522710"},[["appl",{},["{(?2CX2)(%B0JTIT)}"]],["sti",{"ident":"NL522701"},[]],["img",{"numfich":"25227100","path":"/img/pr/00/2522/25227100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002130","obsnfp":"NFP","ref":"00006155C0","refpg":"6155 C0"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900701,,)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002717","obsnfp":"NFP","ref":"0000636287","refpg":"6362 87"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"009624","obsnfp":"NFP","ref":"0000636646","refpg":"6366 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900501,,)/}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002678","obsnfp":"NFP","ref":"0000636645","refpg":"6366 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900501,,)/}"]]]]]]]]]]]]}

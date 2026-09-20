@@ -1,18 +1,1 @@
-{
- "ref": "022407748620",
- "refDisplay": "0224 07 748620",
- "title": "TRAVERSES DE PLANCHER PARTIE INFERIEURE",
- "nature": "",
- "applicability": "CHASSIS CABINE ET CABINE SIMPLE ET 800 KG",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0120"
-  }
- ]
-}
+{"ref":"022407748620","refDisplay":"0224 07 748620","title":"TRAVERSES DE PLANCHER PARTIE INFERIEURE","nature":"","applicability":"CHASSIS CABINE ET CABINE SIMPLE ET 800 KG","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0120"}],"kind":"pr","appl":"{(?2CX2)(%CHASSI)(DCA01)(%800)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005426"},[]],["thesaurus",{"type":"10","code":"005431"},[]],["thesaurus",{"type":"10","code":"002448"},[]],["thesaurus",{"type":"10","code":"002522"},[]],["thesaurus",{"type":"10","code":"002287"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L1484846"},[]],["mpr",{"catal":"0224","grp":"291","grp2":"07","maj":"20111022","numfich":"748620"},[["appl",{},["{(?2CX2)(%CHASSI)(DCA01)(%800)}"]],["sti",{"ident":"NL748601"},[]],["img",{"numfich":"27486200","path":"/img/pr/00/2748/27486200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005426","obsnfp":"NFP","ref":"0000725954","refpg":"7259 54"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005431","obsnfp":"NFP","ref":"0000724436","refpg":"7244 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005431","obsnfp":"NFP","ref":"0000724435","refpg":"7244 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005431","obsnfp":"NFP","ref":"0000724434","refpg":"7244 34"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002448","cote":"G","obsnfp":"NFP","ref":"0000727204","refpg":"7272 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"002448","cote":"D","obsnfp":"NFP","ref":"0000727205","refpg":"7272 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002522","obsnfp":"NFP","ref":"0000727106","refpg":"7271 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002522","cote":"G","obsnfp":"NFP","ref":"0000726911","refpg":"7269 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1484846"},[]]]]]],["pr",{"codesi":"002522","cote":"D","obsnfp":"NFP","ref":"0000727010","refpg":"7270 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002287","obsnfp":"NFP","ref":"0000726914","refpg":"7269 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]]]]]]}

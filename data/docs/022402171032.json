@@ -1,18 +1,1 @@
-{
- "ref": "022402171032",
- "refDisplay": "0224 02 171032",
- "title": "FILTRE A AIR",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L JUSQU’A SERIE 00121749",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402171032","refDisplay":"0224 02 171032","title":"FILTRE A AIR","nature":"","applicability":"GAZOLE ET 2,5L JUSQU’A SERIE 00121749","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)/($,,3,00121749)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000276"},[]],["thesaurus",{"type":"10","code":"006721"},[]],["thesaurus",{"type":"10","code":"000678"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0224","grp":"25","grp2":"02","maj":"20111022","numfich":"171032"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)/($,,3,00121749)/}"]],["sti",{"ident":"NL171001"},[]],["img",{"numfich":"21710320","path":"/img/pr/20/2171/21710320.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"000276","obsnfp":"NFP","ref":"ZF04434852","refpg":"ZF 04 434 852"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006721","obsnfp":"NFP","ref":"0000143801","refpg":"1438 01"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000678","obsnfp":"NFP","ref":"00001423A1","refpg":"1423 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19820602,,)/}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000678","obsnfp":"NFP","ref":"0000142764","refpg":"1427 64"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691584","refpg":"6915 84"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004675","ref":"0000691462","refpg":"6914 62"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-30"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"013981","obsnfp":"NFP","ref":"95602469","refpg":"95 602 469"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X20-3"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004667","ref":"0000694722","refpg":"6947 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X16-2"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"004667","ref":"0000694777","refpg":"6947 77"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X12-1,2"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004650","ref":"00006981L4","refpg":"6981 L4"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 40 A 80 LARG 9"]]]]]]]],["repere",{"rep":"36"},[["pr",{"codesi":"004650","ref":"00006981L5","refpg":"6981 L5"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 40 A 90 LARG 9"]]]]]]]]]]]]}

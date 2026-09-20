@@ -1,18 +1,1 @@
-{
- "ref": "022408932332",
- "refDisplay": "0224 08 932332",
- "title": "SIEGES ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "COMBI ET CLUB DEPUIS DATE 19900501",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"022408932332","refDisplay":"0224 08 932332","title":"SIEGES ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"COMBI ET CLUB DEPUIS DATE 19900501","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?2CX2)(B0JCA)(%CLUB)/($5,19900501,,)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"808-"},[]],["thesaurus",{"type":"10","code":"006879"},[]],["thesaurus",{"type":"10","code":"009743"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["mpr",{"catal":"0224","grp":"432","grp2":"08","maj":"20111022","numfich":"932332"},[["appl",{},["{(?2CX2)(B0JCA)(%CLUB)/($5,19900501,,)/}"]],["sti",{"ident":"NL932301"},[]],["img",{"numfich":"00052393","path":"/img/pr/93/0005/00052393.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"006879","cote":"D","obsnfp":"NFP","ref":"00008969AA","refpg":"8969 AA"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)/($,,3,00374984)/}"]]]]]],["pr",{"codesi":"006879","ref":"00008969FL","refpg":"8969 FL"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($3,00374985,,)/}"]],["complpr",{"couleur":"808-"},[]]]]]],["pr",{"codesi":"006879","cote":"G","obsnfp":"NFP","ref":"00008969AC","refpg":"8969 AC"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)/($,,3,00374984)/}"]]]]]],["pr",{"codesi":"006879","ref":"00008969FK","refpg":"8969 FK"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)/($3,00374985,,)/}"]],["complpr",{"couleur":"808-"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"161, 337, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"009743","ref":"00008969CP","refpg":"8969 CP"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"211, 330, 11","shape":"circle"},[]]]]]]]]]]}

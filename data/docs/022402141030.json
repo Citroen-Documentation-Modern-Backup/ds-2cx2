@@ -1,18 +1,1 @@
-{
- "ref": "022402141030",
- "refDisplay": "0224 02 141030",
- "title": "COLLECTEUR ADMISSION",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402141030","refDisplay":"0224 02 141030","title":"COLLECTEUR ADMISSION","nature":"","applicability":"GAZOLE ET 2,5L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"000282"},[]],["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"006080"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"26","grp2":"02","maj":"20111022","numfich":"141030"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)}"]],["sti",{"ident":"NL141001"},[]],["img",{"numfich":"21410300","path":"/img/pr/00/2141/21410300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"95632930","refpg":"95 632 930"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000412","ref":"00000348H0","refpg":"0348 H0"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004660","obsnfp":"NFP","ref":"26162149","refpg":"26 162 149"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-37-20-5-12"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000282","obsnfp":"NFP","ref":"0000036920","refpg":"0369 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119098","refpg":"1190 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119099","refpg":"1190 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15-18 LONG 51"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000698","ref":"0000119094","refpg":"1190 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"006080","obsnfp":"NFP","ref":"0000156599","refpg":"1565 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 580 LARG 5"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"22541019","refpg":"22 541 019"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8,5X15-2"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

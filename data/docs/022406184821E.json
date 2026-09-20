@@ -1,18 +1,1 @@
-{
- "ref": "022406184821E",
- "refDisplay": "0224 06 184821E",
- "title": "ECHAPPEMENT ARRIERE",
- "nature": "",
- "applicability": "DIESEL ET TURBO ET M705 ET CATALYSEUR ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"022406184821E","refDisplay":"0224 06 184821E","title":"ECHAPPEMENT ARRIERE","nature":"","applicability":"DIESEL ET TURBO ET M705 ET CATALYSEUR ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?2CX2)(%DIESEL)(%TURBO)(%M705)(%CATA)(%EXPORT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000623"},[]],["thesaurus",{"type":"10","code":"002915"},[]],["thesaurus",{"type":"10","code":"000650"},[]],["thesaurus",{"type":"10","code":"007656"},[]],["thesaurus",{"type":"10","code":"000611"},[]],["mpr",{"catal":"0224","grp":"50","grp2":"06","maj":"20111022","numfich":"184821E"},[["appl",{},["{(?2CX2)(%DIESEL)(%TURBO)(%M705)(%CATA)(%EXPORT)}"]],["sti",{"ident":"NL184801"},[]],["img",{"numfich":"2184821e","path":"/img/pr/1e/2184/2184821e.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000623","obsnfp":"NFP","ref":"0000172693","refpg":"1726 93"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002915","obsnfp":"NFP","ref":"0000175471","refpg":"1754 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000650","obsnfp":"NFP","ref":"0000175461","refpg":"1754 61"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007656","ref":"0000172922","refpg":"1729 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000611","ref":"0000175538","refpg":"1755 38"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

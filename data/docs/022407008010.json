@@ -1,18 +1,1 @@
-{
- "ref": "022407008010",
- "refDisplay": "0224 07 008010",
- "title": "CAISSE",
- "nature": "",
- "applicability": "FOURGONS JUSQU’A DATE 19900501 SAUF REHAUSSE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0146"
-  }
- ]
-}
+{"ref":"022407008010","refDisplay":"0224 07 008010","title":"CAISSE","nature":"","applicability":"FOURGONS JUSQU’A DATE 19900501 SAUF REHAUSSE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0146"}],"kind":"pr","appl":"{(?2CX2)(%B0DEA)/($,,5,19900501)/[(%B0JDC)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"005316"},[]],["thesaurus",{"type":"22","code":"P0007374"},[]],["mpr",{"catal":"0224","grp":"376","grp2":"07","maj":"20111022","numfich":"008010"},[["appl",{},["{(?2CX2)(%B0DEA)/($,,5,19900501)/[(%B0JDC)]}"]],["sti",{"ident":"NL008001"},[]],["obspage",{"ident":"P0007374"},[]],["img",{"numfich":"20080100","path":"/img/pr/00/2008/20080100.jpg","ext":"jpg"},[]],["repere",{"rep":"04"},[["pr",{"codesi":"005316","obsnfp":"NFP","ref":"95624502","refpg":"95 624 502"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

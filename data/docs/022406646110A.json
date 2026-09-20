@@ -1,18 +1,1 @@
-{
- "ref": "022406646110A",
- "refDisplay": "0224 06 646110A",
- "title": "CHAUFFAGE COMPLEMENTAIRE CANALISATION",
- "nature": "",
- "applicability": " DEPUIS DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406646110A","refDisplay":"0224 06 646110A","title":"CHAUFFAGE COMPLEMENTAIRE CANALISATION","nature":"","applicability":" DEPUIS DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($5,19900701,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006687"},[]],["mpr",{"catal":"0224","grp":"475","grp2":"06","maj":"20111022","numfich":"646110A"},[["appl",{},["{(?2CX2)/($5,19900701,,)/}"]],["sti",{"ident":"NL646101"},[]],["img",{"numfich":"2646110a","path":"/img/pr/0a/2646/2646110a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006687","obsnfp":"NFP","ref":"00006458A7","refpg":"6458 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 14,5"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006687","obsnfp":"NFP","ref":"00006458A8","refpg":"6458 A8"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 14,5"]]]]]]]]]]]]}

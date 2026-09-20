@@ -1,18 +1,1 @@
-{
- "ref": "022402532040",
- "refDisplay": "0224 02 532040",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L JUSQU’A SERIE 00172000",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532040","refDisplay":"0224 02 532040","title":"ALTERNATEUR","nature":"","applicability":"GAZOLE ET 2,5L JUSQU’A SERIE 00172000","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)/($,,3,00172000)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002257"},[]],["thesaurus",{"type":"21","code":"L1480779"},[]],["mpr",{"catal":"0224","grp":"496 497","grp2":"02","maj":"20111022","numfich":"532040"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)/($,,3,00172000)/}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["516013C"]]]],["img",{"numfich":"25320400","path":"/img/pr/00/2532/25320400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"00005705K1","refpg":"5705 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1480779"},[]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 7 - 70 AMP"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002257","obsnfp":"NFP","ref":"26201039","refpg":"26 201 039"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV 40X17X12"]]]]]]]]]]]]}

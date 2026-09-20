@@ -1,18 +1,1 @@
-{
- "ref": "022402211210",
- "refDisplay": "0224 02 211210",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L JUSQU’A DATE 19830701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"022402211210","refDisplay":"0224 02 211210","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 1,796L ET 2L JUSQU’A DATE 19830701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)/($,,5,19830701)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002285"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["mpr",{"catal":"0224","grp":"44 45 46","grp2":"02","maj":"20111022","numfich":"211210"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)/($,,5,19830701)/}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["525303A"]]]],["img",{"numfich":"22112100","path":"/img/pr/00/2211/22112100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"002285","obsnfp":"NFP","ref":"0000590310","refpg":"5903 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000692172","refpg":"6921 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-25"]]]]]]]]]]]]}

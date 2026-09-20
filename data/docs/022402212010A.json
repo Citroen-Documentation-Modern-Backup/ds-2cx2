@@ -1,18 +1,1 @@
-{
- "ref": "022402212010A",
- "refDisplay": "0224 02 212010A",
- "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L DEPUIS SERIE 00244363",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"022402212010A","refDisplay":"0224 02 212010A","title":"BOBINE BOUGIE FAISCEAU D’ALLUMAGE","nature":"","applicability":"ESSENCE ET 1,796L ET 2L DEPUIS SERIE 00244363","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)/($3,00244363,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001844"},[]],["thesaurus",{"type":"10","code":"001862"},[]],["thesaurus",{"type":"10","code":"002179"},[]],["thesaurus",{"type":"10","code":"002043"},[]],["thesaurus",{"type":"10","code":"002189"},[]],["thesaurus",{"type":"10","code":"001910"},[]],["thesaurus",{"type":"10","code":"001831"},[]],["thesaurus",{"type":"10","code":"005648"},[]],["thesaurus",{"type":"10","code":"002184"},[]],["thesaurus",{"type":"21","code":"L1480557"},[]],["thesaurus",{"type":"21","code":"L1480558"},[]],["mpr",{"catal":"0224","grp":"46","grp2":"02","maj":"20111022","numfich":"212010A"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)/($3,00244363,,)/}"]],["sti",{"ident":"NL212001"},[]],["img",{"numfich":"2212010a","path":"/img/pr/0a/2212/2212010a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001844","obsnfp":"NFP","ref":"0000597035","refpg":"5970 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["13286R"]],["refa",{},["520065"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001862","obsnfp":"NFP","ref":"0000596008","refpg":"5960 08"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1480557"},[]],["reffour",{},[["four",{},["26193V"]],["refa",{},["RN9YCC"]]]]]]]],["pr",{"codesi":"001862","ref":"000059626E","refpg":"5962 6E"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1480558"},[]],["reffour",{},[["four",{},["22969R"]],["refa",{},["WR7DC"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960H8","refpg":"5960 H8"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002179","obsnfp":"NFP","ref":"0000596313","refpg":"5963 13"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002043","obsnfp":"NFP","ref":"91522103","refpg":"91 522 103"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002189","ref":"0000596426","refpg":"5964 26"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["48348B"]]]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001910","obsnfp":"NFP","ref":"7910032562","refpg":"79 10 032 562"},[["pmont",{"coef":"05"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001910","obsnfp":"NFP","ref":"9405975088","refpg":"94 05 975 088"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001831","obsnfp":"NFP","ref":"0000597946","refpg":"5979 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001831","obsnfp":"NFP","ref":"0000597904","refpg":"5979 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"005648","obsnfp":"NFP","ref":"0000594548","refpg":"5945 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["22969R"]],["refa",{},["-"]]]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"002184","obsnfp":"NFP","ref":"0000596615","refpg":"5966 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

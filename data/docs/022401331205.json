@@ -1,18 +1,1 @@
-{
- "ref": "022401331205",
- "refDisplay": "0224 01 331205",
- "title": "FIXATION BV SUR CARTER MOTEUR",
- "nature": "",
- "applicability": "ESSENCE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"022401331205","refDisplay":"0224 01 331205","title":"FIXATION BV SUR CARTER MOTEUR","nature":"","applicability":"ESSENCE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CX2)(DCD10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0224","grp":"600","grp2":"01","maj":"20111022","numfich":"331205"},[["appl",{},["{(?2CX2)(DCD10)}"]],["sti",{"ident":"NL331201"},[]],["img",{"numfich":"23312050","path":"/img/pr/50/2331/23312050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004682","obsnfp":"NFP","ref":"7903009229","refpg":"79 03 009 229"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X150-65"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004667","ref":"00004010H4","refpg":"4010 H4"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

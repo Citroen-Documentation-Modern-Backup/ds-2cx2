@@ -1,18 +1,1 @@
-{
- "ref": "022402533011",
- "refDisplay": "0224 02 533011",
- "title": "DEMARREUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L ET PAYS FROIDS JUSQU’A SERIE 00172000",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"022402533011","refDisplay":"0224 02 533011","title":"DEMARREUR","nature":"","applicability":"ESSENCE ET 1,796L ET 2L ET PAYS FROIDS JUSQU’A SERIE 00172000","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)(DCK02)/($,,3,00172000)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001977"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"003286"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004668"},[]],["thesaurus",{"type":"22","code":"P0007352"},[]],["mpr",{"catal":"0224","grp":"491 492","grp2":"02","maj":"20111022","numfich":"533011"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)(DCK02)/($,,3,00172000)/}"]],["sti",{"ident":"NL533001"},[]],["obspage",{"ident":"P0007352"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["533002 A"]]]],["img",{"numfich":"25330110","path":"/img/pr/10/2533/25330110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001977","ref":"0000580282","refpg":"5802 82"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["13286R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["70988K"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["76253H01"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 3"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002117","obsnfp":"NFP","ref":"0000583537","refpg":"5835 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"003286","obsnfp":"NFP","ref":"9405829278","refpg":"94 05 829 278"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"22"},[["pr",{"codesi":"004675","ref":"0000692120","refpg":"6921 20"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-60"]]]]]]]],["repere",{"rep":"23"},[["pr",{"codesi":"004668","ref":"0000695306","refpg":"6953 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X15-2,2"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022402532033",
- "refDisplay": "0224 02 532033",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532033","refDisplay":"0224 02 532033","title":"ALTERNATEUR","nature":"","applicability":"GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["mpr",{"catal":"0224","grp":"496 497","grp2":"02","maj":"20111022","numfich":"532033"},[["appl",{},["{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["70206K"]],["refd",{},["63321080"]]]],["img",{"numfich":"25320330","path":"/img/pr/30/2532/25320330.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"00005705E9","refpg":"5705 E9"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["70206K"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]]]]]]}

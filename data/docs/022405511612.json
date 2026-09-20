@@ -1,18 +1,1 @@
-{
- "ref": "022405511612",
- "refDisplay": "0224 05 511612",
- "title": "CABLERIE DE PLANCHE DE BORD",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"022405511612","refDisplay":"0224 05 511612","title":"CABLERIE DE PLANCHE DE BORD","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"0224","grp":"520","grp2":"05","maj":"20111022","numfich":"511612"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL511601"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525A4","refpg":"6525 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)/($3,00327501,5,19890131)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525A5","refpg":"6525 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)/($3,00327501,5,19890131)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"0000652594","refpg":"6525 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0JCAA)}"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525A6","refpg":"6525 A6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"ZF07685462","refpg":"ZF 07 685 462"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(DCX02)/($5,19890201,,)/}"]]]]]]]],["repere",{"rep":"52"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"0000652595","refpg":"6525 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0JCAA)(DCX02)}"]]]]]]]]]]]]}

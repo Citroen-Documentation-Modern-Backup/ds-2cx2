@@ -1,18 +1,1 @@
-{
- "ref": "022405511613",
- "refDisplay": "0224 05 511613",
- "title": "CABLERIE DE PLANCHE DE BORD",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"022405511613","refDisplay":"0224 05 511613","title":"CABLERIE DE PLANCHE DE BORD","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"0224","grp":"520","grp2":"05","maj":"20111022","numfich":"511613"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL511601"},[]],["enssup",{},[["refd",{},["SERIE 2"]]]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"ZF07661122","refpg":"ZF 07 661 122"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)/($,,5,19911001)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065255T","refpg":"6525 5T"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(%1000)/($5,19911001,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(%1400)/($5,19911001,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065257T","refpg":"6525 7T"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(%1800)/($5,19911001,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065252T","refpg":"6525 2T"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)/($5,19910201,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)/($5,19910201,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)(DCD06)(%B0FL25)/($5,19910201,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525Y1","refpg":"6525 Y1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)/($,,5,19911001)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)/($,,5,19911001)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)(DCD06)(%B0FL25)/($,,5,19911001)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525V2","refpg":"6525 V2"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)/($5,19911001,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)/($5,19911001,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)(DCD06)(%B0FL25)/($5,19911001,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525HZ","refpg":"6525 HZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)}"]],["nlcfr",{},[["livre",{},["ZF07756747"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)}"]],["nlcfr",{},[["livre",{},["ZF07756747"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)(DCD06)(%B0FL25)}"]],["nlcfr",{},[["livre",{},["ZF07756747"]]]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065259T","refpg":"6525 9T"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(DCX02)(%1000)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(DCX02)(%1400)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065251V","refpg":"6525 1V"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD10)(%1800)(DCX02)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065252V","refpg":"6525 2V"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(DCX02)(%B0F190)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(DCX02)(%B0FL25)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)(DCD06)(DCX02)(%B0FL25)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"000065257V","refpg":"6525 7V"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H06)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0F705)(DAZ09)(B0H05)}"]]]]]]]]]]]]}

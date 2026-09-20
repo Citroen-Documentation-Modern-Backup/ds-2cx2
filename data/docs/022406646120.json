@@ -1,18 +1,1 @@
-{
- "ref": "022406646120",
- "refDisplay": "0224 06 646120",
- "title": "CHAUFFAGE COMPLEMENTAIRE CANALISATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406646120","refDisplay":"0224 06 646120","title":"CHAUFFAGE COMPLEMENTAIRE CANALISATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000681"},[]],["thesaurus",{"type":"10","code":"006687"},[]],["mpr",{"catal":"0224","grp":"475","grp2":"06","maj":"20111022","numfich":"646120"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL646101"},[]],["img",{"numfich":"26461200","path":"/img/pr/00/2646/26461200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000681","obsnfp":"NFP","ref":"00006458A9","refpg":"6458 A9"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006687","obsnfp":"NFP","ref":"00006458A3","refpg":"6458 A3"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

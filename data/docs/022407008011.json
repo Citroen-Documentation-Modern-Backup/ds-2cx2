@@ -1,18 +1,1 @@
-{
- "ref": "022407008011",
- "refDisplay": "0224 07 008011",
- "title": "CAISSE",
- "nature": "",
- "applicability": "REHAUSSE JUSQU’A DATE 19900501",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0146"
-  }
- ]
-}
+{"ref":"022407008011","refDisplay":"0224 07 008011","title":"CAISSE","nature":"","applicability":"REHAUSSE JUSQU’A DATE 19900501","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0146"}],"kind":"pr","appl":"{(?2CX2)(%B0JDC)/($,,5,19900501)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005316"},[]],["mpr",{"catal":"0224","grp":"376","grp2":"07","maj":"20111022","numfich":"008011"},[["appl",{},["{(?2CX2)(%B0JDC)/($,,5,19900501)/}"]],["sti",{"ident":"NL008001"},[]],["img",{"numfich":"20080110","path":"/img/pr/10/2008/20080110.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"005316","obsnfp":"NFP","ref":"95624502","refpg":"95 624 502"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

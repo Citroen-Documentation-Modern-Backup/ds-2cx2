@@ -1,18 +1,1 @@
-{
- "ref": "022401222015",
- "refDisplay": "0224 01 222015",
- "title": "POMPE A HUILE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"022401222015","refDisplay":"0224 01 222015","title":"POMPE A HUILE","nature":"","applicability":"GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000823"},[]],["thesaurus",{"type":"10","code":"000576"},[]],["thesaurus",{"type":"10","code":"000349"},[]],["thesaurus",{"type":"10","code":"000457"},[]],["thesaurus",{"type":"10","code":"000467"},[]],["thesaurus",{"type":"10","code":"007609"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"006027"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"21","code":"L1478875"},[]],["mpr",{"catal":"0224","grp":"17","grp2":"01","maj":"20111022","numfich":"222015"},[["appl",{},["{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}"]],["sti",{"ident":"NL222001"},[]],["img",{"numfich":"22220150","path":"/img/pr/50/2222/22220150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000823","obsnfp":"NFP","ref":"0000100165","refpg":"1001 65"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000576","obsnfp":"NFP","ref":"0000103937","refpg":"1039 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1478875"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000349","obsnfp":"NFP","ref":"0000105202","refpg":"1052 02"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000457","obsnfp":"NFP","ref":"0000104118","refpg":"1041 18"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000457","obsnfp":"NFP","ref":"0000104121","refpg":"1041 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000467","obsnfp":"NFP","ref":"0000104120","refpg":"1041 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"007609","obsnfp":"NFP","ref":"0000105302","refpg":"1053 02"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005670","obsnfp":"NFP","ref":"0000013242","refpg":"0132 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19930901,,)/}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692254","refpg":"6922 54"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]],["pr",{"codesi":"006815","obsnfp":"NFP","ref":"0000025038","refpg":"0250 38"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"006027","obsnfp":"NFP","ref":"ZF11613424","refpg":"ZF 11 613 424"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 45"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006027","obsnfp":"NFP","ref":"ZF11612424","refpg":"ZF 11 612 424"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004675","ref":"0000691584","refpg":"6915 84"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]]]]]]}

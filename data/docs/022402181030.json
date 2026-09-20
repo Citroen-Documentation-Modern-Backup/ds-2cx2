@@ -1,18 +1,1 @@
-{
- "ref": "022402181030",
- "refDisplay": "0224 02 181030",
- "title": "TUBULURE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"022402181030","refDisplay":"0224 02 181030","title":"TUBULURE D’ECHAPPEMENT","nature":"","applicability":"GAZOLE ET 2,5L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000181"},[]],["thesaurus",{"type":"10","code":"000390"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"006096"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"49","grp2":"02","maj":"20111022","numfich":"181030"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)(DAZ09)}"]],["sti",{"ident":"NL181001"},[]],["img",{"numfich":"21810300","path":"/img/pr/00/2181/21810300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000181","obsnfp":"NFP","ref":"0000034138","refpg":"0341 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000390","ref":"00000349F0","refpg":"0349 F0"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004660","obsnfp":"NFP","ref":"0000693043","refpg":"6930 43"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-20-15-15"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004660","ref":"0000035909","refpg":"0359 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-16-55-15"]]]]]],["pr",{"codesi":"004660","obsnfp":"NFP","ref":"7903027117","refpg":"79 03 027 117"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-25-17-12"]]]]]],["pr",{"codesi":"006096","obsnfp":"NFP","ref":"7903027122","refpg":"79 03 027 122"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-40-30-12"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"013981","obsnfp":"NFP","ref":"95602469","refpg":"95 602 469"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X20-3"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022402532051",
- "refDisplay": "0224 02 532051",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L ET TURBO DEPUIS SERIE 00172001",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532051","refDisplay":"0224 02 532051","title":"ALTERNATEUR","nature":"","applicability":"GAZOLE ET 2,5L ET TURBO DEPUIS SERIE 00172001","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)(DAZ09)/($3,00172001,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002257"},[]],["thesaurus",{"type":"10","code":"002319"},[]],["thesaurus",{"type":"10","code":"002173"},[]],["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"002081"},[]],["mpr",{"catal":"0224","grp":"496 497","grp2":"02","maj":"20111022","numfich":"532051"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)(DAZ09)/($3,00172001,,)/}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A 14 N 91"]]]],["img",{"numfich":"25320510","path":"/img/pr/10/2532/25320510.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"00005705K1","refpg":"5705 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 7 - 70 AMP"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002257","obsnfp":"NFP","ref":"26203169","refpg":"26 203 169"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR-12X32X10"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002319","obsnfp":"NFP","ref":"0000572073","refpg":"5720 73"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002173","obsnfp":"NFP","ref":"95619718","refpg":"95 619 718"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002208","ref":"0000576167","refpg":"5761 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"002081","obsnfp":"NFP","ref":"0000573274","refpg":"5732 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022402141010",
- "refDisplay": "0224 02 141010",
- "title": "COLLECTEUR ADMISSION",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402141010","refDisplay":"0224 02 141010","title":"COLLECTEUR ADMISSION","nature":"","applicability":"ESSENCE ET 1,796L ET 2L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000282"},[]],["thesaurus",{"type":"10","code":"000707"},[]],["thesaurus",{"type":"10","code":"006102"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"26","grp2":"02","maj":"20120110","numfich":"141010"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}"]],["sti",{"ident":"NL141001"},[]],["img",{"numfich":"21410100","path":"/img/pr/00/2141/21410100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034398","refpg":"0343 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034274","refpg":"0342 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H06)(B0H05)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000282","ref":"0000036937","refpg":"0369 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000282","ref":"0000036915","refpg":"0369 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["VAPEURS HUILE"]]]]]],["pr",{"codesi":"000282","obsnfp":"NFP","ref":"0000036927","refpg":"0369 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H06)(B0H05)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000707","ref":"0000034515","refpg":"0345 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"006102","obsnfp":"NFP","ref":"0000034547","refpg":"0345 47"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H06)(B0H05)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000412","ref":"00000348E2","refpg":"0348 E2"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004660","ref":"0000693022","refpg":"6930 22"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-18-12-13"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004675","ref":"0000692117","refpg":"6921 17"},[["pmont",{"coef":"05"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-22"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691536","refpg":"6915 36"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"008588","ref":"0000696212","refpg":"6962 12"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X13,7-0,8"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]]]]]]}

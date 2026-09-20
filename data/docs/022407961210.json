@@ -1,18 +1,1 @@
-{
- "ref": "022407961210",
- "refDisplay": "0224 07 961210",
- "title": "PARE-BRISE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0106"
-  }
- ]
-}
+{"ref":"022407961210","refDisplay":"0224 07 961210","title":"PARE-BRISE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0106"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005333"},[]],["thesaurus",{"type":"10","code":"003798"},[]],["mpr",{"catal":"0224","grp":"307","grp2":"07","maj":"20111022","numfich":"961210"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL961201"},[]],["img",{"numfich":"29612100","path":"/img/pr/00/2961/29612100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005333","ref":"00008116E6","refpg":"8116 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DVD01)}"]]]]]],["pr",{"codesi":"005333","obsnfp":"NFP","ref":"95595011","refpg":"95 595 011"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DVD02)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS PAM"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003798","ref":"0000812053","refpg":"8120 53"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

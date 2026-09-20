@@ -1,18 +1,1 @@
-{
- "ref": "022401334910",
- "refDisplay": "0224 01 334910",
- "title": "PIGNON DE RENVOI BOITE TRANSFERT",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"022401334910","refDisplay":"0224 01 334910","title":"PIGNON DE RENVOI BOITE TRANSFERT","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?2CX2)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005754"},[]],["thesaurus",{"type":"10","code":"007494"},[]],["thesaurus",{"type":"10","code":"001356"},[]],["thesaurus",{"type":"10","code":"006217"},[]],["thesaurus",{"type":"10","code":"001583"},[]],["thesaurus",{"type":"10","code":"001742"},[]],["mpr",{"catal":"0224","grp":"15","grp2":"01","maj":"20111022","numfich":"334910"},[["appl",{},["{(?2CX2)(%4X4)}"]],["sti",{"ident":"T0089709"},[]],["img",{"numfich":"23349100","path":"/img/pr/00/2334/23349100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005754","obsnfp":"NFP","ref":"0000300606","refpg":"3006 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($,,5,19910101)/}"]]]]]],["pr",{"codesi":"005754","obsnfp":"NFP","ref":"0000300610","refpg":"3006 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19910101,,)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007494","obsnfp":"NFP","ref":"0000301022","refpg":"3010 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001356","obsnfp":"NFP","ref":"0000320624","refpg":"3206 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["45 X 70 - 8"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006217","obsnfp":"NFP","ref":"0000302405","refpg":"3024 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["16,1 X 36 - 8"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001583","obsnfp":"NFP","ref":"0000321807","refpg":"3218 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001742","obsnfp":"NFP","ref":"0000237720","refpg":"2377 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["16 X 150 - 45"]]]]]]]]]]]]}

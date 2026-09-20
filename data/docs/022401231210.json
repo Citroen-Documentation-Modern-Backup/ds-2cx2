@@ -1,18 +1,1 @@
-{
- "ref": "022401231210",
- "refDisplay": "0224 01 231210",
- "title": "PROTECTEUR DE COURROIE",
- "nature": "",
- "applicability": "GAZOLE ET 2,5L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"022401231210","refDisplay":"0224 01 231210","title":"PROTECTEUR DE COURROIE","nature":"","applicability":"GAZOLE ET 2,5L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0FL25)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001514"},[]],["thesaurus",{"type":"10","code":"001451"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"15","grp2":"01","maj":"20111022","numfich":"231210"},[["appl",{},["{(?2CX2)(DCD06)(%B0FL25)}"]],["sti",{"ident":"NL231201"},[]],["img",{"numfich":"22312100","path":"/img/pr/00/2231/22312100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001514","obsnfp":"NFP","ref":"0000128202","refpg":"1282 02"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001451","obsnfp":"NFP","ref":"95596414","refpg":"95 596 414"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001451","obsnfp":"NFP","ref":"95538052","refpg":"95 538 052"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","ref":"0000692493","refpg":"6924 93"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-20"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000692124","refpg":"6921 24"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-14"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004669","ref":"0000695858","refpg":"6958 58"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8,3X14,3-0,8"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004667","ref":"00006947A5","refpg":"6947 A5"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X20-2"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004669","ref":"0000695857","refpg":"6958 57"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,3X12,3-0,7"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"22541019","refpg":"22 541 019"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8,5X15-2"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004651","ref":"0000693319","refpg":"6933 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DAZ09)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-4"]]]]]]]]]]]]}

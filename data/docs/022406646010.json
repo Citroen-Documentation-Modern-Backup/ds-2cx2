@@ -1,18 +1,1 @@
-{
- "ref": "022406646010",
- "refDisplay": "0224 06 646010",
- "title": "CLIMATISEUR ADDITIONNEL",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406646010","refDisplay":"0224 06 646010","title":"CLIMATISEUR ADDITIONNEL","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002429"},[]],["thesaurus",{"type":"10","code":"002548"},[]],["thesaurus",{"type":"10","code":"002666"},[]],["thesaurus",{"type":"22","code":"P0007373"},[]],["thesaurus",{"type":"21","code":"L1484021"},[]],["mpr",{"catal":"0224","grp":"477","grp2":"06","maj":"20111022","numfich":"646010"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL646001"},[]],["obspage",{"ident":"P0007373"},[]],["img",{"numfich":"26460100","path":"/img/pr/00/2646/26460100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002429","ref":"0000644891","refpg":"6448 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19890509,,)/}"]],["obsligne",{"ident":"L1484021"},[]]]],["prremp",{"coef":"01","palges":"P","ref":"00006448W6","refpg":"6448 W6"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002548","ref":"0000644356","refpg":"6443 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0JCA)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0JTIT)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002666","obsnfp":"NFP","ref":"0000644361","refpg":"6443 61"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CHASSI)(%B0DEA)/($3,00172001,,)/}"]]]]]]]]]]]]}

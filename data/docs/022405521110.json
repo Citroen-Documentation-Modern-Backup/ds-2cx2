@@ -1,18 +1,1 @@
-{
- "ref": "022405521110",
- "refDisplay": "0224 05 521110",
- "title": "TABLEAU DE BORD",
- "nature": "",
- "applicability": " JUSQU’A SERIE 00327500 SAUF TITI",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"022405521110","refDisplay":"0224 05 521110","title":"TABLEAU DE BORD","nature":"","applicability":" JUSQU’A SERIE 00327500 SAUF TITI","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?2CX2)/($,,3,00327500)/[(%B0JTIT)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001868"},[]],["thesaurus",{"type":"10","code":"002375"},[]],["thesaurus",{"type":"21","code":"L1482419"},[]],["mpr",{"catal":"0224","grp":"416 418","grp2":"05","maj":"20111022","numfich":"521110"},[["appl",{},["{(?2CX2)/($,,3,00327500)/[(%B0JTIT)]}"]],["sti",{"ident":"NL521101"},[]],["img",{"numfich":"25211100","path":"/img/pr/00/2521/25211100.jpg","ext":"jpg"},[]],["repere",{"rep":"09"},[["pr",{"codesi":"001868","obsnfp":"NFP","ref":"0000615624","refpg":"6156 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"002375","obsnfp":"NFP","ref":"0000611232","refpg":"6112 32"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3W"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"002375","ref":"0000611234","refpg":"6112 34"},[["pmont",{"coef":"14"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1482419"},[]]]]]]]]]]]]}

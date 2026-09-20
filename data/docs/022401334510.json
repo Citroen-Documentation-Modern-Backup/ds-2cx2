@@ -1,18 +1,1 @@
-{
- "ref": "022401334510",
- "refDisplay": "0224 01 334510",
- "title": "ENSEMBLE PIGNONS ET SYNCHROS DE 5EME",
- "nature": "",
- "applicability": " JUSQU’A DATE 19840101",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"022401334510","refDisplay":"0224 01 334510","title":"ENSEMBLE PIGNONS ET SYNCHROS DE 5EME","nature":"","applicability":" JUSQU’A DATE 19840101","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CX2)/($,,5,19840101)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001195"},[]],["thesaurus",{"type":"22","code":"P0007331"},[]],["mpr",{"catal":"0224","grp":"82","grp2":"01","maj":"20111022","numfich":"334510"},[["appl",{},["{(?2CX2)/($,,5,19840101)/}"]],["sti",{"ident":"NL334501"},[]],["obspage",{"ident":"P0007331"},[]],["enssup",{},[["refd",{},["1 POS"]]]],["img",{"numfich":"23345100","path":"/img/pr/00/2334/23345100.jpg","ext":"jpg"},[]],["repere",{"rep":"06"},[["pr",{"codesi":"001195","ref":"0000231346","refpg":"2313 46"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["22 X 150 - 12"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022401330040",
- "refDisplay": "0224 01 330040",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GAZOLE ET 4X4 ET ESSENCE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"022401330040","refDisplay":"0224 01 330040","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GAZOLE ET 4X4 ET ESSENCE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%4X4)(DCD10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"21","code":"L1479272"},[]],["thesaurus",{"type":"21","code":"L1479270"},[]],["thesaurus",{"type":"21","code":"L1479266"},[]],["mpr",{"catal":"0224","grp":"67 91","grp2":"01","maj":"20111022","numfich":"330040"},[["appl",{},["{(?2CX2)(DCD06)(%4X4)(DCD10)}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"23300400","path":"/img/pr/00/2330/23300400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200KW","refpg":"2200 KW"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)}"]],["obsligne",{"ident":"L1479272"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200KV","refpg":"2200 KV"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(DAZ09)}"]],["obsligne",{"ident":"L1479270"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 12X62 - CT 22X10"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200KX","refpg":"2200 KX"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0FC2)/($5,19910701,,)/}"]],["obsligne",{"ident":"L1479266"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"ZF07645777","refpg":"ZF 07 645 777"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0FY1)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73- CT 20X10"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"ZF07645149","refpg":"ZF 07 645 149"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0FY1)(%TURBO)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 12X62- CT 22X10"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002204L5","refpg":"2204 L5"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1204849"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1205139"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73 - CT 20X10"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002204L6","refpg":"2204 L6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(DAZ09)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1205129"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(DAZ09)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1204129"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%CRD93)(DAZ09)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1204839"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 12X62 - CT 22X10"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002204L7","refpg":"2204 L7"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0FC2)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1205149"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(%B0FC2)(~2)}"]],["reffour",{},[["four",{},["88450R"]],["refa",{},["DUC1204149"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 13X73"]]]]]]]]]]]]}

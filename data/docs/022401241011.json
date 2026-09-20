@@ -1,18 +1,1 @@
-{
- "ref": "022401241011",
- "refDisplay": "0224 01 241011",
- "title": "MOTOVENTILATEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 1,971L DEPUIS DATE 19860101",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"022401241011","refDisplay":"0224 01 241011","title":"MOTOVENTILATEUR","nature":"","applicability":"ESSENCE ET 1,796L ET 1,971L DEPUIS DATE 19860101","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0F1R)/($5,19860101,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000889"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"21","code":"L1479181"},[]],["mpr",{"catal":"0224","grp":"36","grp2":"01","maj":"20111022","numfich":"241011"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0F1R)/($5,19860101,,)/}"]],["sti",{"ident":"NL241001"},[]],["enssup",{},[["fourn",{},["70206K"]]]],["img",{"numfich":"22410110","path":"/img/pr/10/2241/22410110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000889","obsnfp":"NFP","ref":"ZF07549962","refpg":"ZF 07 549 962"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004675","ref":"0000691792","refpg":"6917 92"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1479181"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004667","ref":"0000694777","refpg":"6947 77"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X12-1,2"]]]]]]]]]]]]}

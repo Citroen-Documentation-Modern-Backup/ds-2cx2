@@ -1,18 +1,1 @@
-{
- "ref": "022407962430",
- "refDisplay": "0224 07 962430",
- "title": "GLACES DE PANNEAU DE COTE",
- "nature": "",
- "applicability": "COMBI SUPER ET 800 KG",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0130"
-  }
- ]
-}
+{"ref":"022407962430","refDisplay":"0224 07 962430","title":"GLACES DE PANNEAU DE COTE","nature":"","applicability":"COMBI SUPER ET 800 KG","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0130"}],"kind":"pr","appl":"{(?2CX2)(%COMBIS)(%800)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006368"},[]],["thesaurus",{"type":"10","code":"004126"},[]],["thesaurus",{"type":"10","code":"004054"},[]],["thesaurus",{"type":"10","code":"004492"},[]],["thesaurus",{"type":"10","code":"004055"},[]],["mpr",{"catal":"0224","grp":"346","grp2":"07","maj":"20111022","numfich":"962430"},[["appl",{},["{(?2CX2)(%COMBIS)(%800)}"]],["sti",{"ident":"NL962401"},[]],["img",{"numfich":"29624300","path":"/img/pr/00/2962/29624300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006368","obsnfp":"NFP","ref":"0000856977","refpg":"8569 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004126","obsnfp":"NFP","ref":"0000857088","refpg":"8570 88"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1047*523"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004054","obsnfp":"NFP","ref":"0000857575","refpg":"8575 75"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L= 1028 X 508"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004492","obsnfp":"NFP","ref":"0000858210","refpg":"8582 10"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004055","obsnfp":"NFP","ref":"0000858413","refpg":"8584 13"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

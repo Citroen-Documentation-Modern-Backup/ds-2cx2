@@ -1,18 +1,1 @@
-{
- "ref": "022402532027",
- "refDisplay": "0224 02 532027",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L DEPUIS DATE 19910226",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"022402532027","refDisplay":"0224 02 532027","title":"ALTERNATEUR","nature":"","applicability":"GAZOLE ET 1,905L DEPUIS DATE 19910226","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)/($5,19910226,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["mpr",{"catal":"0224","grp":"496 497","grp2":"02","maj":"20111022","numfich":"532027"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)/($5,19910226,,)/}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A13N218"]]]],["img",{"numfich":"25320270","path":"/img/pr/70/2532/25320270.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"0000570525","refpg":"5705 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["76253H"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]]]]]]}

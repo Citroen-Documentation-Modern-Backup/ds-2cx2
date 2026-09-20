@@ -1,18 +1,1 @@
-{
- "ref": "022406184812",
- "refDisplay": "0224 06 184812",
- "title": "ECHAPPEMENT ARRIERE",
- "nature": "",
- "applicability": "1800 KG",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"022406184812","refDisplay":"0224 06 184812","title":"ECHAPPEMENT ARRIERE","nature":"","applicability":"1800 KG","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?2CX2)(%1800)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000623"},[]],["thesaurus",{"type":"10","code":"000188"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004668"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"50","grp2":"06","maj":"20111022","numfich":"184812"},[["appl",{},["{(?2CX2)(%1800)}"]],["sti",{"ident":"NL184801"},[]],["img",{"numfich":"21848120","path":"/img/pr/20/2184/21848120.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000623","obsnfp":"NFP","ref":"ZF07654354","refpg":"ZF 07 654 354"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000188","obsnfp":"NFP","ref":"0000171324","refpg":"1713 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 53,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692216","refpg":"6922 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-80"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004667","ref":"0000694677","refpg":"6946 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X20-2"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004668","ref":"0000695307","refpg":"6953 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X18-2,5"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004651","ref":"0000693257","refpg":"6932 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-8,3"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006936E1","refpg":"6936 E1"},[]]]]]]]]]]}

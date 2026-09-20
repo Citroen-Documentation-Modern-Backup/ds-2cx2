@@ -1,18 +1,1 @@
-{
- "ref": "022406182325",
- "refDisplay": "0224 06 182325",
- "title": "ECRAN D’ECHAPPEMENT",
- "nature": "",
- "applicability": "DIESEL ET TURBO ET M705 ET CATALYSEUR ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"022406182325","refDisplay":"0224 06 182325","title":"ECRAN D’ECHAPPEMENT","nature":"","applicability":"DIESEL ET TURBO ET M705 ET CATALYSEUR ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?2CX2)(%DIESEL)(%TURBO)(%M705)(%CATA)(%EXPORT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000261"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["mpr",{"catal":"0224","grp":"51","grp2":"06","maj":"20111022","numfich":"182325"},[["appl",{},["{(?2CX2)(%DIESEL)(%TURBO)(%M705)(%CATA)(%EXPORT)}"]],["sti",{"ident":"NL182301"},[]],["img",{"numfich":"21823250","path":"/img/pr/50/2182/21823250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000261","obsnfp":"NFP","ref":"0000173211","refpg":"1732 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000261","obsnfp":"NFP","ref":"0000172325","refpg":"1723 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000261","obsnfp":"NFP","ref":"ZF07658314","refpg":"ZF 07 658 314"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["645X296 EP 62"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"00006917A5","refpg":"6917 A5"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-16"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006815","ref":"00006925G5","refpg":"6925 G5"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"008588","ref":"0000696204","refpg":"6962 04"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12,2-0,5"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004667","ref":"00006947G6","refpg":"6947 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X18-2"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"004656","ref":"00006941C1","refpg":"6941 C1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004656","ref":"0000694193","refpg":"6941 93"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100"]]]]]]]]]]]]}

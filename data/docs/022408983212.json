@@ -1,18 +1,1 @@
-{
- "ref": "022408983212",
- "refDisplay": "0224 08 983212",
- "title": "PANNEAUX DE PORTE AVANT - FINITION",
- "nature": "",
- "applicability": "COMBI SUPER ET 800 KG",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"022408983212","refDisplay":"0224 08 983212","title":"PANNEAUX DE PORTE AVANT - FINITION","nature":"","applicability":"COMBI SUPER ET 800 KG","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?2CX2)(%COMBIS)(%800)}","tree":["document",{},[["thesaurus",{"type":"6","code":"650-"},[]],["thesaurus",{"type":"6","code":"808-"},[]],["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"10","code":"002654"},[]],["thesaurus",{"type":"10","code":"016932"},[]],["thesaurus",{"type":"10","code":"003621"},[]],["thesaurus",{"type":"10","code":"005884"},[]],["mpr",{"catal":"0224","grp":"354","grp2":"08","maj":"20111022","numfich":"983212"},[["appl",{},["{(?2CX2)(%COMBIS)(%800)}"]],["sti",{"ident":"NL983201"},[]],["img",{"numfich":"29832120","path":"/img/pr/20/2983/29832120.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","obsnfp":"NFP","ref":"00009398NT","refpg":"9398 NT"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["complpr",{"couleur":"650-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002654","obsnfp":"NFP","ref":"00009398NV","refpg":"9398 NV"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["complpr",{"couleur":"650-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"016932","obsnfp":"NFP","ref":"00008230K3","refpg":"8230 K3"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["complpr",{"couleur":"808-"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003621","obsnfp":"NFP","ref":"0000833636","refpg":"8336 36"},[["pmont",{"coef":"10"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005884","obsnfp":"NFP","ref":"0000892297","refpg":"8922 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

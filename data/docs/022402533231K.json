@@ -1,18 +1,1 @@
-{
- "ref": "022402533231K",
- "refDisplay": "0224 02 533231K",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"022402533231K","refDisplay":"0224 02 533231K","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?2CX2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001946"},[]],["thesaurus",{"type":"10","code":"005155"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"006271"},[]],["thesaurus",{"type":"10","code":"002074"},[]],["thesaurus",{"type":"10","code":"002073"},[]],["thesaurus",{"type":"10","code":"005156"},[]],["mpr",{"catal":"0224","grp":"492","grp2":"02","maj":"20111022","numfich":"533231K"},[["appl",{},["{(?2CX2)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["76253H01"]],["refd",{},["D 7 R 8"]]]],["img",{"numfich":"sf33231a","path":"/img/pr/1a/sf33/sf33231a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001946","ref":"0000583658","refpg":"5836 58"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005155","obsnfp":"NFP","ref":"0000585581","refpg":"5855 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002117","obsnfp":"NFP","ref":"00005835C3","refpg":"5835 C3"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006271","obsnfp":"NFP","ref":"0000581717","refpg":"5817 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002074","obsnfp":"NFP","ref":"00005821D9","refpg":"5821 D9"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002073","obsnfp":"NFP","ref":"00005820A4","refpg":"5820 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"005156","obsnfp":"NFP","ref":"0000582785","refpg":"5827 85"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022406642310",
- "refDisplay": "0224 06 642310",
- "title": "GROUPE DE CHAUFFAGE",
- "nature": "",
- "applicability": " JUSQU’A DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406642310","refDisplay":"0224 06 642310","title":"GROUPE DE CHAUFFAGE","nature":"","applicability":" JUSQU’A DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($,,5,19900701)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005299"},[]],["thesaurus",{"type":"10","code":"004661"},[]],["mpr",{"catal":"0224","grp":"461 488","grp2":"06","maj":"20111022","numfich":"642310"},[["appl",{},["{(?2CX2)/($,,5,19900701)/}"]],["sti",{"ident":"NL642301"},[]],["img",{"numfich":"26423100","path":"/img/pr/00/2642/26423100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"005299","obsnfp":"NFP","ref":"0000645267","refpg":"6452 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004661","obsnfp":"NFP","ref":"00006450H6","refpg":"6450 H6"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

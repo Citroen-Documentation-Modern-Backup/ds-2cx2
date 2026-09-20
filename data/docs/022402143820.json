@@ -1,18 +1,1 @@
-{
- "ref": "022402143820",
- "refDisplay": "0224 02 143820",
- "title": "CARBURATEUR-NECESSAIRE DE REPARATION",
- "nature": "",
- "applicability": "2L ET ESSENCE ET (A) AUTRICHE ET (CH) SUISSE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402143820","refDisplay":"0224 02 143820","title":"CARBURATEUR-NECESSAIRE DE REPARATION","nature":"","applicability":"2L ET ESSENCE ET (A) AUTRICHE ET (CH) SUISSE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(%B0FC2)(DCD10)(B0H06)(B0H05)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["mpr",{"catal":"0224","grp":"34","grp2":"02","maj":"20121121","numfich":"143820"},[["appl",{},["{(?2CX2)(%B0FC2)(DCD10)(B0H06)(B0H05)}"]],["sti",{"ident":"NL143801"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["34 TBIA PSA 434"]]]],["img",{"numfich":"21438200","path":"/img/pr/00/2143/21438200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000814","obsnfp":"NFP","ref":"00001417M6","refpg":"1417 M6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000869","obsnfp":"NFP","ref":"00001417M7","refpg":"1417 M7"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

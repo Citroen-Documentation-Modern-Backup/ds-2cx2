@@ -1,18 +1,1 @@
-{
- "ref": "022408983211",
- "refDisplay": "0224 08 983211",
- "title": "PANNEAUX DE PORTE AVANT - FINITION",
- "nature": "",
- "applicability": "CABINE DOUBLE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"022408983211","refDisplay":"0224 08 983211","title":"PANNEAUX DE PORTE AVANT - FINITION","nature":"","applicability":"CABINE DOUBLE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?2CX2)(DCA02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"10","code":"003621"},[]],["thesaurus",{"type":"10","code":"016932"},[]],["thesaurus",{"type":"10","code":"004312"},[]],["mpr",{"catal":"0224","grp":"354","grp2":"08","maj":"20111022","numfich":"983211"},[["appl",{},["{(?2CX2)(DCA02)}"]],["sti",{"ident":"NL983201"},[]],["img",{"numfich":"29832110","path":"/img/pr/10/2983/29832110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","obsnfp":"NFP","ref":"00009398GT","refpg":"9398 GT"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900501,,)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003621","obsnfp":"NFP","ref":"ZF05947054","refpg":"ZF 05 947 054"},[["pmont",{"coef":"10"},[["appl",{},["{(?2CX2)/($,,3,00166413)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["TROU 9 D 15"]]]]]],["pr",{"codesi":"003621","obsnfp":"NFP","ref":"ZF07532275","refpg":"ZF 07 532 275"},[["pmont",{"coef":"10"},[["appl",{},["{(?2CX2)/($3,00166414,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"016932","obsnfp":"NFP","ref":"00008230H1","refpg":"8230 H1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($5,19900501,,)/}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004312","obsnfp":"NFP","ref":"0000833640","refpg":"8336 40"},[["pmont",{"coef":"18"},[["appl",{},["{(?2CX2)/($5,19900501,,)/}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "022407748140",
- "refDisplay": "0224 07 748140",
- "title": "PLANCHERS PASSAGE DE ROUE ARRIERE",
- "nature": "",
- "applicability": "CHASSIS CABINE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0116"
-  }
- ]
-}
+{"ref":"022407748140","refDisplay":"0224 07 748140","title":"PLANCHERS PASSAGE DE ROUE ARRIERE","nature":"","applicability":"CHASSIS CABINE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0116"}],"kind":"pr","appl":"{(?2CX2)(%CHASSI)}","tree":["document",{},[["thesaurus",{"type":"7","code":"P022-"},[]],["thesaurus",{"type":"10","code":"002796"},[]],["thesaurus",{"type":"10","code":"005887"},[]],["thesaurus",{"type":"10","code":"004066"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L1484744"},[]],["thesaurus",{"type":"21","code":"L1484746"},[]],["thesaurus",{"type":"21","code":"L1484748"},[]],["thesaurus",{"type":"21","code":"L1484745"},[]],["thesaurus",{"type":"21","code":"L1484747"},[]],["thesaurus",{"type":"21","code":"L1484750"},[]],["thesaurus",{"type":"21","code":"L1484749"},[]],["mpr",{"catal":"0224","grp":"322 323","grp2":"07","maj":"20111022","numfich":"748140"},[["appl",{},["{(?2CX2)(%CHASSI)}"]],["sti",{"ident":"NL748101"},[]],["img",{"numfich":"27481400","path":"/img/pr/00/2748/27481400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002796","obsnfp":"NFP","ref":"0000723526","refpg":"7235 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA02)/($5,19900501,,)/}"]],["obsligne",{"ident":"L1484744"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005887","cote":"G","obsnfp":"NFP","ref":"0000722316","refpg":"7223 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA01)/($5,19900501,,)/}"]],["obsligne",{"ident":"L1484746"},[]]]]]],["pr",{"codesi":"005887","cote":"G","obsnfp":"NFP","ref":"0000722322","refpg":"7223 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA01)(%1800)}"]],["obsligne",{"ident":"L1484748"},[]]]]]],["pr",{"codesi":"005887","cote":"D","obsnfp":"NFP","ref":"0000722424","refpg":"7224 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA01)/($5,19900501,,)/}"]],["obsligne",{"ident":"L1484745"},[]]]]]],["pr",{"codesi":"005887","cote":"D","obsnfp":"NFP","ref":"0000722428","refpg":"7224 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA01)(%1800)}"]],["obsligne",{"ident":"L1484747"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005887","cote":"G","obsnfp":"NFP","ref":"0000722317","refpg":"7223 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA02)/($5,19900501,,)/}"]],["obsligne",{"ident":"L1484750"},[]]]]]],["pr",{"codesi":"005887","cote":"D","obsnfp":"NFP","ref":"0000722425","refpg":"7224 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA02)/($5,19900501,,)/}"]],["obsligne",{"ident":"L1484749"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004066","obsnfp":"NFP","ref":"0000852964","refpg":"8529 64"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"P022-"},[]]]]]]]]]]]]}

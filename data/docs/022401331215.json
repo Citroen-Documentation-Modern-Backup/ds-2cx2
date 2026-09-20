@@ -1,18 +1,1 @@
-{
- "ref": "022401331215",
- "refDisplay": "0224 01 331215",
- "title": "FIXATION BV SUR CARTER MOTEUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"022401331215","refDisplay":"0224 01 331215","title":"FIXATION BV SUR CARTER MOTEUR","nature":"","applicability":"GAZOLE ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0224","grp":"600","grp2":"01","maj":"20111022","numfich":"331215"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)}"]],["sti",{"ident":"NL331201"},[]],["img",{"numfich":"23312150","path":"/img/pr/50/2331/23312150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692132","refpg":"6921 32"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-65"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000691822","refpg":"6918 22"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-148"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000691823","refpg":"6918 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-95"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692119","refpg":"6921 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-60"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"008006","ref":"0000692230","refpg":"6922 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-48"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005670","obsnfp":"NFP","ref":"0000221008","refpg":"2210 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X1,00-188"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005670","obsnfp":"NFP","ref":"0000221020","refpg":"2210 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X150-82"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004667","ref":"0000694646","refpg":"6946 46"},[["pmont",{"coef":"10"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X14-1,5"]]]]]]]]]]]]}

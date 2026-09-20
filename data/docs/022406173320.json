@@ -1,18 +1,1 @@
-{
- "ref": "022406173320",
- "refDisplay": "0224 06 173320",
- "title": "FILTRE A GASOIL",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"022406173320","refDisplay":"0224 06 173320","title":"FILTRE A GASOIL","nature":"","applicability":"GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000325"},[]],["thesaurus",{"type":"10","code":"003307"},[]],["thesaurus",{"type":"10","code":"000423"},[]],["thesaurus",{"type":"10","code":"003471"},[]],["thesaurus",{"type":"10","code":"000159"},[]],["mpr",{"catal":"0224","grp":"228","grp2":"06","maj":"20111022","numfich":"173320"},[["appl",{},["{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)}"]],["sti",{"ident":"NL173301"},[]],["img",{"numfich":"21733200","path":"/img/pr/00/2173/21733200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000325","obsnfp":"NFP","ref":"0000190152","refpg":"1901 52"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003307","obsnfp":"NFP","ref":"0000191913","refpg":"1919 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000423","obsnfp":"NFP","ref":"0000191209","refpg":"1912 09"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003471","obsnfp":"NFP","ref":"0000191125","refpg":"1911 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000159","obsnfp":"NFP","ref":"ZF09941058","refpg":"ZF 09 941 058"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

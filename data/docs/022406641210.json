@@ -1,18 +1,1 @@
-{
- "ref": "022406641210",
- "refDisplay": "0224 06 641210",
- "title": "BOITIER PULSEUR DE CLIMATISATION",
- "nature": "",
- "applicability": " JUSQU’A DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406641210","refDisplay":"0224 06 641210","title":"BOITIER PULSEUR DE CLIMATISATION","nature":"","applicability":" JUSQU’A DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($,,5,19900701)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002489"},[]],["thesaurus",{"type":"10","code":"002841"},[]],["thesaurus",{"type":"10","code":"003001"},[]],["thesaurus",{"type":"10","code":"005706"},[]],["thesaurus",{"type":"10","code":"009681"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["mpr",{"catal":"0224","grp":"462 469","grp2":"06","maj":"20111022","numfich":"641210"},[["appl",{},["{(?2CX2)/($,,5,19900701)/}"]],["sti",{"ident":"NL641201"},[]],["img",{"numfich":"26412100","path":"/img/pr/00/2641/26412100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002489","obsnfp":"NFP","ref":"0000644015","refpg":"6440 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($3,00369619,,)/}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002841","obsnfp":"NFP","ref":"ZF05920012","refpg":"ZF 05 920 012"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 VITESSES"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"003001","cote":"D","obsnfp":"NFP","ref":"0000644691","refpg":"6446 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"005706","cote":"G","obsnfp":"NFP","ref":"0000644692","refpg":"6446 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"005706","cote":"D","obsnfp":"NFP","ref":"0000644693","refpg":"6446 93"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"009681","obsnfp":"NFP","ref":"0000644460","refpg":"6444 60"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"16"},[["pr",{"codesi":"010757","ref":"0000691102","refpg":"6911 02"},[["pmont",{"coef":"99"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-13"]]]]]]]],["repere",{"rep":"17"},[["pr",{"codesi":"010757","ref":"00006910A5","refpg":"6910 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2-19"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924H5","refpg":"6924 H5"},[]]]]]],["repere",{"rep":"18"},[["pr",{"codesi":"010757","ref":"0000690888","refpg":"6908 88"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,8-19"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692588","refpg":"6925 88"},[]]]]]],["repere",{"rep":"19"},[["pr",{"codesi":"004667","ref":"0000694623","refpg":"6946 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X12-1,25"]]]]]]]]]]]]}

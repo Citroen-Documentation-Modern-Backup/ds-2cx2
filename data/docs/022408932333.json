@@ -1,18 +1,1 @@
-{
- "ref": "022408932333",
- "refDisplay": "0224 08 932333",
- "title": "SIEGES ARRIERE - COIFFE - ACCOUDOIR",
- "nature": "",
- "applicability": "COMBI SUPER ET 800 KG",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"022408932333","refDisplay":"0224 08 932333","title":"SIEGES ARRIERE - COIFFE - ACCOUDOIR","nature":"","applicability":"COMBI SUPER ET 800 KG","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?2CX2)(%COMBIS)(%800)}","tree":["document",{},[["thesaurus",{"type":"7","code":"T045-"},[]],["thesaurus",{"type":"7","code":"T044-"},[]],["thesaurus",{"type":"6","code":"808-"},[]],["thesaurus",{"type":"10","code":"009793"},[]],["thesaurus",{"type":"10","code":"016941"},[]],["thesaurus",{"type":"10","code":"006879"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0224","grp":"432","grp2":"08","maj":"20111022","numfich":"932333"},[["appl",{},["{(?2CX2)(%COMBIS)(%800)}"]],["sti",{"ident":"T0090106"},[]],["img",{"numfich":"29323330","path":"/img/pr/30/2932/29323330.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009793","obsnfp":"NFP","ref":"00008934RT","refpg":"8934 RT"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"T045-"},[]]]]]],["pr",{"codesi":"009793","obsnfp":"NFP","ref":"00008934RV","refpg":"8934 RV"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"T044-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016941","obsnfp":"NFP","ref":"00008936VP","refpg":"8936 VP"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"T045-"},[]]]]]],["pr",{"codesi":"016941","obsnfp":"NFP","ref":"00008936VQ","refpg":"8936 VQ"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"matiere":"T044-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006879","obsnfp":"NFP","ref":"00008969AQ","refpg":"8969 AQ"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]],["complpr",{"couleur":"808-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004682","ref":"0000691315","refpg":"6913 15"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691306","refpg":"6913 06"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004669","ref":"0000696294","refpg":"6962 94"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X11-0,7"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004667","ref":"0000694777","refpg":"6947 77"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X12-1,2"]]]]]]]]]]]]}

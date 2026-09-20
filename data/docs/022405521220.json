@@ -1,18 +1,1 @@
-{
- "ref": "022405521220",
- "refDisplay": "0224 05 521220",
- "title": "COMBINE DE BORD - FLEXIBLE DE COMPTEUR",
- "nature": "",
- "applicability": "TACHYGRAPHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"022405521220","refDisplay":"0224 05 521220","title":"COMBINE DE BORD - FLEXIBLE DE COMPTEUR","nature":"","applicability":"TACHYGRAPHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?2CX2)(DHC01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002048"},[]],["thesaurus",{"type":"10","code":"001906"},[]],["thesaurus",{"type":"10","code":"006247"},[]],["thesaurus",{"type":"21","code":"L1482453"},[]],["thesaurus",{"type":"21","code":"L1482455"},[]],["thesaurus",{"type":"21","code":"L1482454"},[]],["mpr",{"catal":"0224","grp":"416 418","grp2":"05","maj":"20111022","numfich":"521220"},[["appl",{},["{(?2CX2)(DHC01)}"]],["sti",{"ident":"NL521201"},[]],["img",{"numfich":"25212200","path":"/img/pr/00/2521/25212200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002048","obsnfp":"NFP","ref":"00006123J7","refpg":"6123 J7"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["COTE COMPTEUR"]]]]]],["pr",{"codesi":"002048","obsnfp":"NFP","ref":"00006123K1","refpg":"6123 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1482453"},[]]]],["descomp",{},[["lib",{"langue":"01"},["L=1000"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002048","obsnfp":"NFP","ref":"00006123J6","refpg":"6123 J6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1482455"},[]]]]]],["pr",{"codesi":"002048","obsnfp":"NFP","ref":"00006123L2","refpg":"6123 L2"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["obsligne",{"ident":"L1482454"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001906","obsnfp":"NFP","ref":"0000616034","refpg":"6160 34"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006247","obsnfp":"NFP","ref":"00006555QL","refpg":"6555 QL"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

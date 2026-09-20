@@ -1,18 +1,1 @@
-{
- "ref": "022406617210",
- "refDisplay": "0224 06 617210",
- "title": "PARE-CHOCS ARRIERE",
- "nature": "",
- "applicability": " JUSQU’A SERIE 00149665",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0115"
-  }
- ]
-}
+{"ref":"022406617210","refDisplay":"0224 06 617210","title":"PARE-CHOCS ARRIERE","nature":"","applicability":" JUSQU’A SERIE 00149665","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0115"}],"kind":"pr","appl":"{(?2CX2)/($,,3,00149665)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003160"},[]],["thesaurus",{"type":"10","code":"002749"},[]],["thesaurus",{"type":"10","code":"005884"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0224","grp":"321","grp2":"06","maj":"20111022","numfich":"617210"},[["appl",{},["{(?2CX2)/($,,3,00149665)/}"]],["sti",{"ident":"NL617201"},[]],["img",{"numfich":"26172100","path":"/img/pr/00/2617/26172100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003160","obsnfp":"NFP","ref":"0000741158","refpg":"7411 58"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002749","obsnfp":"NFP","ref":"0000744207","refpg":"7442 07"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"002749","obsnfp":"NFP","ref":"0000744206","refpg":"7442 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005884","obsnfp":"NFP","ref":"0000744610","refpg":"7446 10"},[["pmont",{"coef":"08"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006142","ref":"0000693670","refpg":"6936 70"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-8-13"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000450343","refpg":"4503 43"},[]]]]]]]]]]}

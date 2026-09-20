@@ -1,18 +1,1 @@
-{
- "ref": "022407008012A",
- "refDisplay": "0224 07 008012A",
- "title": "CAISSE",
- "nature": "",
- "applicability": "CHASSIS CABINE DEPUIS DATE 19900501",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0146"
-  }
- ]
-}
+{"ref":"022407008012A","refDisplay":"0224 07 008012A","title":"CAISSE","nature":"","applicability":"CHASSIS CABINE DEPUIS DATE 19900501","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0146"}],"kind":"pr","appl":"{(?2CX2)(%CHASSI)/($5,19900501,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001921"},[]],["thesaurus",{"type":"10","code":"005316"},[]],["thesaurus",{"type":"10","code":"002798"},[]],["thesaurus",{"type":"10","code":"006963"},[]],["mpr",{"catal":"0224","grp":"376","grp2":"07","maj":"20111022","numfich":"008012A"},[["appl",{},["{(?2CX2)(%CHASSI)/($5,19900501,,)/}"]],["sti",{"ident":"NL008001"},[]],["img",{"numfich":"00052344","path":"/img/pr/44/0005/00052344.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001921","obsnfp":"NFP","ref":"ZF96203696","refpg":"ZF 96 203 696"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCJ02)}"]]]]]],["pr",{"codesi":"001921","obsnfp":"NFP","ref":"ZF96203697","refpg":"ZF 96 203 697"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCJ01)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"328, 26, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001921","obsnfp":"NFP","ref":"ZF96203709","refpg":"ZF 96 203 709"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCA02)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"159, 185, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005316","obsnfp":"NFP","ref":"95624502","refpg":"95 624 502"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)[(B0H02)]}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"438, 426, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002798","ref":"0000754191","refpg":"7541 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H02)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"302, 316, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006963","ref":"0000754193","refpg":"7541 93"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(B0H02)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"325, 502, 11","shape":"circle"},[]]]]]]]]]]}

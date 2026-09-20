@@ -1,18 +1,1 @@
-{
- "ref": "022405564210",
- "refDisplay": "0224 05 564210",
- "title": "LAVE VITRE ARRIERE",
- "nature": "",
- "applicability": "COMBI ET CLUB",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0321"
-  }
- ]
-}
+{"ref":"022405564210","refDisplay":"0224 05 564210","title":"LAVE VITRE ARRIERE","nature":"","applicability":"COMBI ET CLUB","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0321"}],"kind":"pr","appl":"{(?2CX2)(B0JCA)(%CLUB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002867"},[]],["thesaurus",{"type":"10","code":"002441"},[]],["thesaurus",{"type":"10","code":"002655"},[]],["thesaurus",{"type":"10","code":"002407"},[]],["thesaurus",{"type":"10","code":"002976"},[]],["thesaurus",{"type":"10","code":"002386"},[]],["thesaurus",{"type":"10","code":"014261"},[]],["mpr",{"catal":"0224","grp":"387","grp2":"05","maj":"20111022","numfich":"564210"},[["appl",{},["{(?2CX2)(B0JCA)(%CLUB)}"]],["sti",{"ident":"NL564201"},[]],["img",{"numfich":"25642100","path":"/img/pr/00/2564/25642100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002867","obsnfp":"NFP","ref":"0000643126","refpg":"6431 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002441","obsnfp":"NFP","ref":"0000643223","refpg":"6432 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002655","obsnfp":"NFP","ref":"0000643875","refpg":"6438 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002407","obsnfp":"NFP","ref":"0000643839","refpg":"6438 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002976","obsnfp":"NFP","ref":"ZF19120880","refpg":"ZF 191 208 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8,5X9,5 LON4700"]]]]]],["pr",{"codesi":"002976","ref":"0000643950","refpg":"6439 50"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4X6-4500 CL"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002386","obsnfp":"NFP","ref":"0000643916","refpg":"6439 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 16"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"014261","ref":"00006936A0","refpg":"6936 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-6-10"]]]]]]]]]]]]}

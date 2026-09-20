@@ -1,18 +1,1 @@
-{
- "ref": "022406184821",
- "refDisplay": "0224 06 184821",
- "title": "ECHAPPEMENT ARRIERE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT SAUF CATALYSEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"022406184821","refDisplay":"0224 06 184821","title":"ECHAPPEMENT ARRIERE","nature":"","applicability":"GAZOLE ET TURBO ET 1,930L ET (XT) EXPORT SAUF CATALYSEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)[(%CATA)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"010714"},[]],["thesaurus",{"type":"10","code":"000611"},[]],["thesaurus",{"type":"10","code":"000188"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"007630"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0224","grp":"50","grp2":"06","maj":"20111022","numfich":"184821"},[["appl",{},["{(?2CX2)(DCD06)(DAZ09)(%B0F705)(%B0HXT)[(%CATA)]}"]],["sti",{"ident":"NL184801"},[]],["img",{"numfich":"21848210","path":"/img/pr/10/2184/21848210.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010714","ref":"00001730H2","refpg":"1730 H2"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000611","ref":"0000175538","refpg":"1755 38"},[["pmont",{"coef":"06"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000188","ref":"0000171326","refpg":"1713 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["GAMME PRO"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000171301","refpg":"1713 01"},[]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000171351","refpg":"1713 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694677","refpg":"6946 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X20-2"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"007630","obsnfp":"NFP","ref":"ZF10571879","refpg":"ZF 10 571 879"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004651","ref":"00007244K7","refpg":"7244 K7"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}

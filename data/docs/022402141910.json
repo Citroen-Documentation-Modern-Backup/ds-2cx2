@@ -1,18 +1,1 @@
-{
- "ref": "022402141910",
- "refDisplay": "0224 02 141910",
- "title": "COMMANDE D’ACCELERATEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,796L ET 2L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"022402141910","refDisplay":"0224 02 141910","title":"COMMANDE D’ACCELERATEUR","nature":"","applicability":"ESSENCE ET 1,796L ET 2L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000785"},[]],["thesaurus",{"type":"10","code":"000115"},[]],["thesaurus",{"type":"10","code":"014154"},[]],["thesaurus",{"type":"10","code":"002386"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0224","grp":"41","grp2":"02","maj":"20120210","numfich":"141910"},[["appl",{},["{(?2CX2)(DCD10)(%B0F1U)(%B0FC2)}"]],["sti",{"ident":"NL141901"},[]],["img",{"numfich":"21419100","path":"/img/pr/00/2141/21419100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000785","obsnfp":"NFP","ref":"00001601A5","refpg":"1601 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000115","ref":"00001629E6","refpg":"1629 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]],["pr",{"codesi":"014154","ref":"1608266880","refpg":"16 082 668 80","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002386","obsnfp":"NFP","ref":"0000643914","refpg":"6439 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 10 TROU6"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006142","ref":"0000693508","refpg":"6935 08"},[["pmont",{"coef":"02"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-5-12,2"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"000785","obsnfp":"NFP","ref":"00001601A6","refpg":"1601 A6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]]]],["repere",{"rep":"54"},[["pr",{"codesi":"000115","ref":"00001629E6","refpg":"1629 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]],["pr",{"codesi":"014154","ref":"1608266880","refpg":"16 082 668 80","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)(DCX02)}"]]]]]]]]]]]]}

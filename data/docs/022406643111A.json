@@ -1,18 +1,1 @@
-{
- "ref": "022406643111A",
- "refDisplay": "0224 06 643111A",
- "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
- "nature": "",
- "applicability": " DEPUIS DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406643111A","refDisplay":"0224 06 643111A","title":"COMMANDE DE CHAUFFAGE ET D’AERATION","nature":"","applicability":" DEPUIS DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($5,19900701,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006118"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"002870"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["mpr",{"catal":"0224","grp":"463","grp2":"06","maj":"20111022","numfich":"643111A"},[["appl",{},["{(?2CX2)/($5,19900701,,)/}"]],["sti",{"ident":"NL643101"},[]],["img",{"numfich":"2643111a","path":"/img/pr/1a/2643/2643111a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006118","obsnfp":"NFP","ref":"0000645183","refpg":"6451 83"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006118","obsnfp":"NFP","ref":"0000645184","refpg":"6451 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006118","obsnfp":"NFP","ref":"0000645185","refpg":"6451 85"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"0000648213","refpg":"6482 13"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002870","obsnfp":"NFP","ref":"0000647810","refpg":"6478 10"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"010757","ref":"00006910A5","refpg":"6910 A5"},[["pmont",{"coef":"03"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2-19"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924H5","refpg":"6924 H5"},[]]]]]]]]]]}

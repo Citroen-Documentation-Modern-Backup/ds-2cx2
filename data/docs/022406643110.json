@@ -1,18 +1,1 @@
-{
- "ref": "022406643110",
- "refDisplay": "0224 06 643110",
- "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
- "nature": "",
- "applicability": " JUSQU’A DATE 19900701",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"022406643110","refDisplay":"0224 06 643110","title":"COMMANDE DE CHAUFFAGE ET D’AERATION","nature":"","applicability":" JUSQU’A DATE 19900701","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?2CX2)/($,,5,19900701)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002442"},[]],["thesaurus",{"type":"10","code":"002626"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["mpr",{"catal":"0224","grp":"463","grp2":"06","maj":"20111022","numfich":"643110"},[["appl",{},["{(?2CX2)/($,,5,19900701)/}"]],["sti",{"ident":"NL643101"},[]],["img",{"numfich":"26431100","path":"/img/pr/00/2643/26431100.jpg","ext":"jpg"},[]],["repere",{"rep":"07"},[["pr",{"codesi":"002442","obsnfp":"NFP","ref":"0000647637","refpg":"6476 37"},[["pmont",{"coef":"04"},[["appl",{},["{(?2CX2)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002626","obsnfp":"NFP","ref":"0000645069","refpg":"6450 69"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)/($,,3,00172000)/}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004792","ref":"00006216C6","refpg":"6216 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12V-W1,2W"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"010757","ref":"0000691102","refpg":"6911 02"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-13"]]]]]]]]]]]]}

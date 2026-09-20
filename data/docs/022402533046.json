@@ -1,18 +1,1 @@
-{
- "ref": "022402533046",
- "refDisplay": "0224 02 533046",
- "title": "DEMARREUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L DEPUIS DATE 19910411",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"022402533046","refDisplay":"0224 02 533046","title":"DEMARREUR","nature":"","applicability":"GAZOLE ET 1,905L DEPUIS DATE 19910411","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?2CX2)(DCD06)(%B0F190)/($5,19910411,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001977"},[]],["mpr",{"catal":"0224","grp":"491 492","grp2":"02","maj":"20111022","numfich":"533046"},[["appl",{},["{(?2CX2)(DCD06)(%B0F190)/($5,19910411,,)/}"]],["sti",{"ident":"NL533001"},[]],["enssup",{},[["fourn",{},["71367X"]],["refd",{},["M001T90281"]]]],["img",{"numfich":"25330460","path":"/img/pr/60/2533/25330460.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001977","ref":"00005802M3","refpg":"5802 M3"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["76253H"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]],["reffour",{},[["four",{},["76253H01"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005802FJ","refpg":"5802 FJ"},[]]]]]]]]]]}

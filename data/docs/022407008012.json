@@ -1,18 +1,1 @@
-{
- "ref": "022407008012",
- "refDisplay": "0224 07 008012",
- "title": "CAISSE",
- "nature": "",
- "applicability": "CHASSIS CABINE JUSQU’A DATE 19900501",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "2CX2",
-   "variantKey": "",
-   "fctId": "FCT0146"
-  }
- ]
-}
+{"ref":"022407008012","refDisplay":"0224 07 008012","title":"CAISSE","nature":"","applicability":"CHASSIS CABINE JUSQU’A DATE 19900501","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"2CX2","variantKey":"","fctId":"FCT0146"}],"kind":"pr","appl":"{(?2CX2)(%CHASSI)/($,,5,19900501)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005316"},[]],["mpr",{"catal":"0224","grp":"376","grp2":"07","maj":"20111022","numfich":"008012"},[["appl",{},["{(?2CX2)(%CHASSI)/($,,5,19900501)/}"]],["sti",{"ident":"NL008001"},[]],["img",{"numfich":"20080120","path":"/img/pr/20/2008/20080120.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"005316","obsnfp":"NFP","ref":"95624502","refpg":"95 624 502"},[["pmont",{"coef":"01"},[["appl",{},["{(?2CX2)}"]]]]]]]]]]]]}
